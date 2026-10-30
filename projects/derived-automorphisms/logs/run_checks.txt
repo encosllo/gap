@@ -1,0 +1,20 @@
+Run of run_checks.sh, 4 jobs in parallel, started 2026-10-30 21:17:00 CET
+Machine: MacBook Air, Apple M2, 8 cores, 8 GB RAM
+System: macOS 27.0.1 (arm64)
+Software: GAP 4.16.1, SmallGrp 1.7.0
+
+search_theorem_6_11_1-120.log               0 min 18 s
+table_1_order_192.log                       0 min 16 s
+table_1.log                                 0 min  6 s
+theorems_101-150.log                        0 min 57 s
+section_5.log                               0 min 24 s
+example_4_8.log                             0 min  1 s
+example_after_corollary_6_6.log             0 min  2 s
+theorems_151-200.log                        1 min 18 s
+example_6_14.log                            0 min  2 s
+theorem_6_11.log                            0 min 14 s
+remark_8_3.log                              0 min 29 s
+proposition_6_16.log                        0 min  7 s
+theorems_1-100.log                          1 min 41 s
+search_theorem_6_11_294.log                 3 min 43 s
+Finished 2026-10-30 21:22:04 CET, total 5 min

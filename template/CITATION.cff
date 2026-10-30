@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below and this software."
+title: "GAP code for \"<title>\""
+type: software
+authors:
+  - family-names: Cosme Llópez
+    given-names: Enric
+    affiliation: "Departament de Matemàtiques, Universitat de València, Spain"
+license: MIT
+repository-code: "https://github.com/encosllo/gap/tree/main/projects/<name>"
+keywords:
+  - GAP
+  - finite groups
+preferred-citation:
+  type: article
+  title: "<title>"
+  authors:
+    - family-names: Cosme Llópez
+      given-names: Enric

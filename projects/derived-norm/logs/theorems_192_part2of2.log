@@ -14,7 +14,7 @@ GAP [ 192, 1000 ] supersoluble=false G'<=D(G)=true [D_H,G]<=DZ=true
 GAP [ 192, 1002 ] supersoluble=false G'<=D(G)=true [D_H,G]<=DZ=true
 GAP [ 192, 1008 ] supersoluble=false G'<=D(G)=true [D_H,G]<=DZ=true
 order 192 done
-FINAL: rec(
+FAILURES rec(
   C15 := [  ],
   C17 := [  ],
   T14 := [  ],
@@ -24,3 +24,4 @@ FINAL: rec(
   T18 := [  ],
   T41 := [  ],
   T43 := [  ] )
+FINAL

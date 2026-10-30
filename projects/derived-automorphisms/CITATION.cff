@@ -13,7 +13,7 @@ authors:
     given-names: Enric
     affiliation: "Departament de Matemàtiques, Universitat de València, Spain"
 license: MIT
-repository-code: "https://github.com/encosllo/derived-automorphisms-gap"
+repository-code: "https://github.com/encosllo/gap/tree/main/projects/derived-automorphisms"
 keywords:
   - GAP
   - finite groups

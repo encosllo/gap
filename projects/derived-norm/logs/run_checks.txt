@@ -1,0 +1,17 @@
+Run of run_checks.sh, 4 jobs in parallel, started 2026-10-30 21:22:04 CET
+Machine: MacBook Air, Apple M2, 8 cores, 8 GB RAM
+System: macOS 27.0.1 (arm64)
+Software: GAP 4.16.1, SmallGrp 1.7.0
+
+theorems_192_part1of2.log                   5 min 35 s
+theorems_192_part2of2.log                   5 min 47 s
+theorems_193-200.log                        0 min 11 s
+theorems_1-191.log                          3 min 40 s
+question_5_3_193-200.log                    0 min 33 s
+example_5_1.log                             0 min  1 s
+example_5_2.log                             0 min  2 s
+example_5_2_check.log                       0 min 10 s
+question_5_3_1-191.log                     17 min  6 s
+question_5_3_192_part1of2.log              62 min 57 s
+question_5_3_192_part2of2.log              67 min  1 s
+Finished 2026-10-30 22:29:05 CET, total 67 min

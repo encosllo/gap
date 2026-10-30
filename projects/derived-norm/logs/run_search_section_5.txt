@@ -1,0 +1,8 @@
+Run of run_search_section_5.sh (then named run_search.sh), 4 jobs in parallel, 2026
+Machine: office computer (older than the one of run_checks.txt); details not recorded
+System: not recorded
+Software: GAP 4.16 (exact version not recorded)
+
+This file was written by hand: the run predates the automatic records. The logs were produced with
+the earlier names search.g and search_*.log, renamed afterwards; their contents are unchanged.
+Durations of the jobs were not recorded; order 768 took about 4-5 hours per part.

@@ -215,7 +215,7 @@ order 188 done
 order 189 done
 order 190 done
 order 191 done
-FINAL: rec(
+FAILURES rec(
   C15 := [  ],
   C17 := [  ],
   T14 := [  ],
@@ -225,3 +225,4 @@ FINAL: rec(
   T18 := [  ],
   T41 := [  ],
   T43 := [  ] )
+FINAL

@@ -22,12 +22,13 @@
 #   [S5]   Section 5: for every G with D_H(G) <> D(G) Z_oo(G), a line
 #          "GAP [n, i] supersoluble=<b> G'<=D(G)=<b> [D_H,G]<=DZ=<b>" is printed.
 #
-# Optional variables r and k: only the groups SmallGroup(n, i) with i = r mod k are checked
+# Optional variables part and nparts: only the groups SmallGroup(n, i) with i = part mod nparts are checked
 # (to split an order among several processes).
 #
 # Usage:  gap -q -c 'nmin:=1;; nmax:=200;;' gap/lib.g gap/theorems.g
-#         gap -q -c 'nmin:=192;; nmax:=192;; r:=1;; k:=3;;' gap/lib.g gap/theorems.g
-if not IsBound(r) then r := 1; k := 1; fi;
+#         gap -q -c 'nmin:=192;; nmax:=192;; part:=1;; nparts:=3;;' gap/lib.g gap/theorems.g
+if not IsBound(part) then part := 1; fi;
+if not IsBound(nparts) then nparts := 1; fi;
 
 bad := rec(T14 := [], C15 := [], T16a := [], T16b := [], T16c := [], C17 := [],
            T18 := [], T41 := [], T43 := []);
@@ -94,11 +95,11 @@ CheckGroup := function(G, id)
 end;
 
 for n in [nmin..nmax] do
-  for i in Filtered([1..NrSmallGroups(n)], j -> j mod k = r mod k) do
+  for i in Filtered([1..NrSmallGroups(n)], j -> j mod nparts = part mod nparts) do
     G := SmallGroup(n, i);
     if not IsNilpotentGroup(G) then CheckGroup(G, [n, i]); fi;
   od;
   Print("order ", n, " done\n");
 od;
-Print("FINAL: ", bad, "\n");
+Print("FAILURES ", bad, "\nFINAL\n");
 QUIT;
