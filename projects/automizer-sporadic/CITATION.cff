@@ -12,6 +12,7 @@ authors:
   - family-names: Cosme Llópez
     given-names: Enric
     affiliation: "Departament de Matemàtiques, Universitat de València, Spain"
+doi: 10.5281/zenodo.23858263
 license: MIT
 repository-code: "https://github.com/encosllo/gap/tree/main/projects/automizer-sporadic"
 keywords:

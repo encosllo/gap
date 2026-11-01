@@ -1,5 +1,7 @@
 # GAP code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23858263.svg)](https://doi.org/10.5281/zenodo.23858263)
+
 [GAP](https://www.gap-system.org) programs used for the computations in the papers of
 Enric Cosme Llópez and coauthors, together with the output of the runs.
 
@@ -55,5 +57,11 @@ Copy `template/` to `projects/<name>/` and follow the conventions in [`CLAUDE.md
 ## License
 
 The code of each project is released under the MIT License and its logs under CC BY 4.0; see the
-`LICENSE` files of each project. To cite the code of a paper, cite the paper and use the
-`CITATION.cff` of its project.
+`LICENSE` files of each project.
+
+## How to cite
+
+To cite the code of a paper, cite the paper and use the `CITATION.cff` of its project. The repository
+is archived on Zenodo: [10.5281/zenodo.23858263](https://doi.org/10.5281/zenodo.23858263) always resolves
+to the latest version, and [10.5281/zenodo.23858264](https://doi.org/10.5281/zenodo.23858264) is version
+1.0.0.
