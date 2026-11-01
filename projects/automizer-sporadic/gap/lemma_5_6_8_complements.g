@@ -2,7 +2,7 @@
 #
 # Constructs the four complement classes of R = 2^9 in the parabolic P of the
 # Co1-embedded U6(2), with their local normalizer orders. Also used by
-# Proposition 5.6.15.
+# Proposition 5.6.14.
 #
 # Writes: work/co1_u6_p_complements.ws.
 # Expected: the recorded output (GAP 4.12.1) ends with

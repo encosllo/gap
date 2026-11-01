@@ -38,7 +38,7 @@ GAP 4.16dev (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 
 |---|---|
 | `gap/lib.g` | Header with the paper and the notation; it defines no function, since every script is self-contained. Must be loaded before the other scripts. |
 | `gap/lemma_3_6_2.g` | Lemma 3.6.2: The local data of Lemma 3.6.2 and the maximal-subgroup orders used in Lemma 3.6.4, from CTblLib. Its output is printed in Appendix A. Printed in the paper. |
-| `gap/proposition_3_7_6.g` | Proposition 3.7.6: The automizers of M22 (156 subgroup classes; [C2^3] is not in Spec(M22)) and the witnesses in 2.M22, 3.M22 and 4.M22, built from the ATLAS generators in gap/data/. Printed in the paper. |
+| `gap/proposition_3_7_5.g` | Proposition 3.7.5: The automizers of M22 (156 subgroup classes; [C2^3] is not in Spec(M22)) and the witnesses in 2.M22, 3.M22 and 4.M22, built from the ATLAS generators in gap/data/. Printed in the paper. |
 | `gap/theorem_3_8_4.g` | Theorem 3.8.4: [A] is in Spec(2.J2) and not in Spec(J2), for A = 2^3:4 of order 32: fixed-space checks for the U3(3) modules and the witness in 2.J2, from the ATLAS generators in gap/data/. Its output is printed in Appendix C. Printed in the paper. |
 | `gap/theorem_3_9_3.g` | Theorem 3.9.3: The small fiber-product model and the graph subgroup; the stored character-table values are a consistency check only. Printed in the paper. |
 | `gap/lemma_4_3_3.g` | Lemma 4.3.3: The integer sieve of the proof: the pairs (p, d) with p prime, p^d <= 28900 and 979200 dividing |GL_d(p)| are exactly (2, d), 8 <= d <= 14. Printed in the paper. |
@@ -48,8 +48,8 @@ GAP 4.16dev (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 
 | `gap/section_4_10.g` | Section 4.10: The numerical bounds, the centres of the two local groups, and the stored class fusion into 2.B. It does not replace the cited subgroup classification or module theorem. Printed in the paper. |
 | `gap/theorem_5_1_3.g` | Theorem 5.1.3: The character-table and numerical checks used in the proof. Printed in the paper. |
 | `gap/theorem_5_1_4.g` | Theorem 5.1.4: The character-table and numerical checks used in the proof. Printed in the paper. |
-| `gap/theorem_5_1_6.g` | Theorem 5.1.6: The degree minima, the small Frobenius orbits and every relevant order-7 class. Printed in the paper. |
-| `gap/theorem_5_1_9.g` | Theorem 5.1.9: The character-table and numerical checks used in the proof. Printed in the paper. |
+| `gap/theorem_5_1_5.g` | Theorem 5.1.5: The degree minima, the small Frobenius orbits and every relevant order-7 class. Printed in the paper. |
+| `gap/theorem_5_1_7.g` | Theorem 5.1.7: The character-table and numerical checks used in the proof. Printed in the paper. |
 | `gap/theorem_5_2_1.g` | Theorem 5.2.1: [C3] is in Spec(Ru) and not in Spec(2.Ru). Builds Ru (degree 4060) and 2.Ru (degree 16240) from the ATLAS generators in gap/data/; the paper records 5751 abelian Sylow 2-subgroup classes, 123 full normalizer checks, 351 strict profile exclusions and 17 mixed-subgroup checks. The workspace work/ru_c3_canonical_after_lattice.ws is an optional checkpoint. Printed in the paper. |
 | `gap/theorem_5_3_3.g` | Theorem 5.3.3: The table of marks of McL is the completeness input; checks its representative and normalizer orders, and computes every required centralizer and graph-subgroup quotient. Printed in the paper. |
 | `gap/theorem_5_4_4.g` | Theorem 5.4.4: [L2(11)] is in Spec(3.Suz) and Spec(6.Suz) and not in Spec(Suz). Builds 3.Suz (degree 5346) from the ATLAS generators in gap/data/. Printed in the paper. |
@@ -69,7 +69,7 @@ GAP 4.16dev (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 
 | `gap/lemma_5_6_6_check.g` | Lemma 5.6.6: Independent check of the class-fusion exclusions for the eight covers of L3(4) with 2-part in the centre. Printed in the paper. |
 | `gap/lemma_5_6_6_class_fusions.g` | Lemma 5.6.6: No possible class fusion into Co1 for the eight 2-centred covers of L3(4) (decompose:=false); the centre of a surviving 3.L3(4) maps to class 3A. |
 | `gap/lemma_5_6_7.g` | Lemma 5.6.7: For the standard L3(4) on the Golay code: dim C^T = 1, dim V^T = 0, and H^1(T,V) = 0 (Z^1 and B^1 of dimension 11). |
-| `gap/lemma_5_6_8_complements.g` | Lemma 5.6.8: Constructs the four complement classes of R = 2^9 in the parabolic P of the Co1-embedded U6(2), with their local normalizer orders. Also used by Proposition 5.6.15. |
+| `gap/lemma_5_6_8_complements.g` | Lemma 5.6.8: Constructs the four complement classes of R = 2^9 in the parabolic P of the Co1-embedded U6(2), with their local normalizer orders. Also used by Proposition 5.6.14. |
 | `gap/lemma_5_6_8_f4_modules.g` | Lemma 5.6.8: The four faithful degree-3 modules of 3.L3(4) are fixed by the fourth-power Frobenius; the smallest nontrivial absolute 2-degree of L3(4) is 8; |GU3(2)| = 648. |
 | `gap/lemma_5_6_8_fusion.g` | Lemma 5.6.8: The outer S3 has orbits of lengths 3 and 1 on the complement classes: |N(P)| = 61931520, complement normalizer orders 40320, 120960, 40320, 40320. Input: `work/co1_u6_selected_complements.ws`. |
 | `gap/lemma_5_6_8_h1.g` | Lemma 5.6.8: Z^1(T,R) has dimension 11 and B^1(T,R) dimension 9: four complement classes. |
@@ -79,22 +79,22 @@ GAP 4.16dev (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 
 | `gap/lemma_5_6_9_incidence.g` | Lemma 5.6.9: Independent incidence-only check of the same containments. |
 | `gap/corollary_5_6_10.g` | Corollary 5.6.10: Both Co3 classes of L3(4), transported into the degree-98280 Co1: full centralizer 1 and full normalizer of order 241920. |
 | `gap/lemma_5_6_11.g` | Lemma 5.6.11: Maximal-subgroup filter of Suz for order 20160: four sources, and no simple L3(4) in G2(4) or J2. |
-| `gap/lemma_5_6_13.g` | Lemma 5.6.13: Order filters on the maximal subgroups for subgroup order 20160; in O8+(2) only Sp6(2), 2^6:A8 and A9 remain (three classes each). |
-| `gap/lemma_5_6_13_ninecover.g` | Lemma 5.6.13: The perfect residual of the maximal 3^2.U4(3).D8 has order 29393280 = 9|U4(3)|. |
-| `gap/lemma_5_6_14.g` | Lemma 5.6.14: Constructs the maximal Co2 from the ATLAS standard words: order 42305421312000, generator orders 2 and 5, product of order 28. |
-| `gap/lemma_5_6_14_golay.g` | Lemma 5.6.14: The Co2 maximal 2^10:M22:2 lies in the Golay maximal: Golay orbits 48576, 49152, 552, and the 552-orbit point stabilizer has order 908328960. |
-| `gap/lemma_5_6_14_hs.g` | Lemma 5.6.14: Co2 source HS.2 (TOM class 580): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
-| `gap/lemma_5_6_14_m23.g` | Lemma 5.6.14: Co2 source M23 (self-contained: builds the standard Co2): full Co1 centralizer 1 and normalizer 241920. |
-| `gap/lemma_5_6_14_mcl.g` | Lemma 5.6.14: Co2 source McL (TOM classes 357, 358): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
-| `gap/lemma_5_6_14_u43.g` | Lemma 5.6.14: Co2 source U4(3).D8 (TOM classes 376, 377, fused by the D8): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
-| `gap/proposition_5_6_15_golay.g` | Proposition 5.6.15: Golay branch: K = L3(4):2_2 from an actual M23 complement of the Golay maximal, with N(K) = 80640 and C(K) = 1. |
-| `gap/proposition_5_6_15_golay_centralizer.g` | Proposition 5.6.15: Golay branch: for L = K', C(L) = 1 and |N(L)| = 241920. Input: `work/co1_l34_22_before_normalizer.ws`. |
-| `gap/proposition_5_6_15_u6_levi.g` | Proposition 5.6.15: Unitary branch, Levi complement class: global centralizer 1. Input: `work/co1_u6_selected_complements.ws`. |
-| `gap/proposition_5_6_15_u6_nonzero.g` | Proposition 5.6.15: Unitary branch, nonzero complement class: global C = 1 and N = 241920. Input: `work/co1_u6_selected_complements.ws`. |
-| `gap/lemma_5_6_16_outer.g` | Lemma 5.6.16: The centre-fixed quotient has order 40320 and is L3(4).2_1, not L3(4).2_2. Input: `work/co1_3l34_local_normalizer.ws`. |
-| `gap/lemma_5_6_16_scan.g` | Lemma 5.6.16: Source maximal 9 of Suz.2: C(L) = C3 x A4, |N(L)| = 2903040; the 10 abelian central factors give automizers of orders 80640 (8) and 241920 (2). Input: `work/co1_3suz2_local.ws`. |
-| `gap/lemma_5_6_16_suz.g` | Lemma 5.6.16: Builds the 3.Suz.2 model (degree 5346) for the other core source. |
-| `gap/lemma_5_6_16_u43.g` | Lemma 5.6.16: Aligned U4(3) source in 3.Suz.2: unique aligned centre, all abelian central factors, and the centre-fixed outer type (not L3(4).2_2). Also checks the unitary-source facts of Lemma 5.6.11. |
+| `gap/lemma_5_6_12.g` | Lemma 5.6.12: Order filters on the maximal subgroups for subgroup order 20160; in O8+(2) only Sp6(2), 2^6:A8 and A9 remain (three classes each). |
+| `gap/lemma_5_6_12_ninecover.g` | Lemma 5.6.12: The perfect residual of the maximal 3^2.U4(3).D8 has order 29393280 = 9|U4(3)|. |
+| `gap/lemma_5_6_13.g` | Lemma 5.6.13: Constructs the maximal Co2 from the ATLAS standard words: order 42305421312000, generator orders 2 and 5, product of order 28. |
+| `gap/lemma_5_6_13_golay.g` | Lemma 5.6.13: The Co2 maximal 2^10:M22:2 lies in the Golay maximal: Golay orbits 48576, 49152, 552, and the 552-orbit point stabilizer has order 908328960. |
+| `gap/lemma_5_6_13_hs.g` | Lemma 5.6.13: Co2 source HS.2 (TOM class 580): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
+| `gap/lemma_5_6_13_m23.g` | Lemma 5.6.13: Co2 source M23 (self-contained: builds the standard Co2): full Co1 centralizer 1 and normalizer 241920. |
+| `gap/lemma_5_6_13_mcl.g` | Lemma 5.6.13: Co2 source McL (TOM classes 357, 358): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
+| `gap/lemma_5_6_13_u43.g` | Lemma 5.6.13: Co2 source U4(3).D8 (TOM classes 376, 377, fused by the D8): full Co1 centralizer 1 and normalizer 241920. Input: `work/co1_co2_standard.ws`. |
+| `gap/proposition_5_6_14_golay.g` | Proposition 5.6.14: Golay branch: K = L3(4):2_2 from an actual M23 complement of the Golay maximal, with N(K) = 80640 and C(K) = 1. |
+| `gap/proposition_5_6_14_golay_centralizer.g` | Proposition 5.6.14: Golay branch: for L = K', C(L) = 1 and |N(L)| = 241920. Input: `work/co1_l34_22_before_normalizer.ws`. |
+| `gap/proposition_5_6_14_u6_levi.g` | Proposition 5.6.14: Unitary branch, Levi complement class: global centralizer 1. Input: `work/co1_u6_selected_complements.ws`. |
+| `gap/proposition_5_6_14_u6_nonzero.g` | Proposition 5.6.14: Unitary branch, nonzero complement class: global C = 1 and N = 241920. Input: `work/co1_u6_selected_complements.ws`. |
+| `gap/lemma_5_6_15_outer.g` | Lemma 5.6.15: The centre-fixed quotient has order 40320 and is L3(4).2_1, not L3(4).2_2. Input: `work/co1_3l34_local_normalizer.ws`. |
+| `gap/lemma_5_6_15_scan.g` | Lemma 5.6.15: Source maximal 9 of Suz.2: C(L) = C3 x A4, |N(L)| = 2903040; the 10 abelian central factors give automizers of orders 80640 (8) and 241920 (2). Input: `work/co1_3suz2_local.ws`. |
+| `gap/lemma_5_6_15_suz.g` | Lemma 5.6.15: Builds the 3.Suz.2 model (degree 5346) for the other core source. |
+| `gap/lemma_5_6_15_u43.g` | Lemma 5.6.15: Aligned U4(3) source in 3.Suz.2: unique aligned centre, all abelian central factors, and the centre-fixed outer type (not L3(4).2_2). Also checks the unitary-source facts of Lemma 5.6.11. |
 | `gap/proposition_5_7_1.g` | Proposition 5.7.1: Triple cover: H of order 81 with full automizer of order 1296, identified with the block group F; O2(F) = 1, no normal C3, weight orbits 8, 8, 16, 16, 16, 16. Coprime transport gives the sextuple cover. |
 | `gap/proposition_5_7_1_target.g` | Proposition 5.7.1: Independent check that the matrix input of the absence searches (gap/data/fi22_target1296_matrix4.g) and the group F of the paper are isomorphic, with no normal C3. |
 | `gap/proposition_5_7_3.g` | Proposition 5.7.3: The 26 automizers of order divisible by 1296: 13 of order 1296 with Sylow 2-subgroup [16,11], 12 of order 3888 with [16,8], and one of order 51840 with nonabelian Sylow 3-subgroup of order 81; also the centralizer bounds. Input: `work/fi22_base_allabelian3.ws`. |
@@ -133,8 +133,8 @@ The other scripts start from a workspace written by an earlier script (`SaveWork
 
 ```
 mkdir -p work
-gap -q --quitonbreak gap/lib.g gap/lemma_5_6_14.g   # writes work/co1_co2_standard.ws
-gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_14_mcl.g
+gap -q --quitonbreak gap/lib.g gap/lemma_5_6_13.g   # writes work/co1_co2_standard.ws
+gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_13_mcl.g
 ```
 
 The workspaces are large and are not committed. To reproduce all the logs (4 parallel processes,
@@ -147,10 +147,10 @@ about 20 minutes with `NJOBS=2` on a MacBook Air M2 with 8 GB; the workspaces in
 
 `run_checks.sh` runs the jobs in six stages, so that every workspace exists before it is loaded.
 The chains are: `lemma_5_6_8_complements` → `lemma_5_6_8_select` → `lemma_5_6_8_fusion`,
-`lemma_5_6_8_outer_type`, `proposition_5_6_15_u6_nonzero`, `proposition_5_6_15_u6_levi`;
-`proposition_5_6_15_golay` → `proposition_5_6_15_golay_centralizer`; `lemma_5_6_14` →
-`lemma_5_6_14_mcl`, `_hs`, `_u43`; `lemma_5_6_16_suz` → `lemma_5_6_16_scan` →
-`lemma_5_6_16_outer`; `proposition_5_7_3_sylow` → `proposition_5_7_3_automizers` →
+`lemma_5_6_8_outer_type`, `proposition_5_6_14_u6_nonzero`, `proposition_5_6_14_u6_levi`;
+`proposition_5_6_14_golay` → `proposition_5_6_14_golay_centralizer`; `lemma_5_6_14` →
+`lemma_5_6_13_mcl`, `_hs`, `_u43`; `lemma_5_6_15_suz` → `lemma_5_6_15_scan` →
+`lemma_5_6_15_outer`; `proposition_5_7_3_sylow` → `proposition_5_7_3_automizers` →
 `proposition_5_7_3`, `proposition_5_7_3_types`, `proposition_5_7_7` → `proposition_5_7_7_*`; and
 `proposition_5_7_3_sylow` → `proposition_5_7_6_lattice` → `proposition_5_7_6`, `proposition_5_7_9_types`
 → `proposition_5_7_9_auts` → `proposition_5_7_9` → `proposition_5_7_9_coverage`,
@@ -194,10 +194,10 @@ logs, apart from the version line of Appendix A and the line breaks of Appendix 
 - **Co1, presence and abelian branch** (`lemma_5_6_1*.g`–`lemma_5_6_4.g`): $W=2^{10}$ has full automizer
   $L_3(4):2_2$ in $2.\mathit{Co}_1$; the invariant Golay subspaces have stabilizers of orders 120960,
   887040, 244823040, larger than $|F|=40320$.
-- **Co1, quasisimple cores** (`lemma_5_6_6*.g`–`lemma_5_6_14*.g`, `corollary_5_6_10.g`, `proposition_5_6_15_*.g`): a
+- **Co1, quasisimple cores** (`lemma_5_6_6*.g`–`lemma_5_6_14*.g`, `corollary_5_6_10.g`, `proposition_5_6_14_*.g`): a
   quasisimple $L<\mathit{Co}_1$ with $L/Z(L)\cong L_3(4)$ is $L_3(4)$ or $3.L_3(4)$; every
   $L_3(4)<\mathit{Co}_1$, from each of its sources, has $C(L)=1$ and $|N(L)|=241920$.
-- **Co1, triple cores** (`lemma_5_6_16_*.g`): both sources have $C(L)\cong C_3\times A_4$,
+- **Co1, triple cores** (`lemma_5_6_15_*.g`): both sources have $C(L)\cong C_3\times A_4$,
   $|N(L)|=2903040$, abelian central factors with automizers of orders 80640 (8) and 241920 (2), and
   centre-fixed quotient $L_3(4).2_1$.
 - **Fi22, presence** (`proposition_5_7_1.g`, `proposition_5_7_11.g`): a subgroup of order 81 of

@@ -1,4 +1,4 @@
-# Proposition 5.6.15 (all simple L3(4) cores in Co1)
+# Proposition 5.6.14 (all simple L3(4) cores in Co1)
 #
 # Unitary branch, nonzero complement class: global C = 1 and N = 241920.
 #
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   nonzero complement GLOBAL N 241920 C 1 A 241920
 # Original file: co1_u6_nonzero_l34_global.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_u6_selected_complements.ws gap/lib.g gap/proposition_5_6_15_u6_nonzero.g
+# Usage: gap -q --quitonbreak -L work/co1_u6_selected_complements.ws gap/lib.g gap/proposition_5_6_14_u6_nonzero.g
 TTnonzero:=ulcomp[1];;
 Print("nonzero complement order ",Size(TTnonzero),"\n");
 CCnonzero:=Centralizer(GG1,TTnonzero);;

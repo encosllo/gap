@@ -1,4 +1,4 @@
-# Lemma 5.6.14 (the Co2 sources)
+# Lemma 5.6.13 (the Co2 sources)
 #
 # Co2 source M23 (self-contained: builds the standard Co2): full Co1
 # centralizer 1 and normalizer 241920.
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   ALL ACTUAL CO2 M23-SOURCE CO1 CHECKS PASSED classes 1
 # Original file: co1_co2_m23_l34_global.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_14_m23.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_13_m23.g
 LoadPackage("atlasrep");;LoadPackage("tomlib");;
 Read("gap/data/co1_p98280b0.g1");;aa:=a11;;
 Read("gap/data/co1_p98280b0.g2");;bb:=a21;;

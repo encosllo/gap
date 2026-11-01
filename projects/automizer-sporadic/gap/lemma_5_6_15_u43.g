@@ -1,4 +1,4 @@
-# Lemma 5.6.16 (the two triple-core sources)
+# Lemma 5.6.15 (the two triple-core sources)
 #
 # Aligned U4(3) source in 3.Suz.2: unique aligned centre, all abelian central
 # factors, and the centre-fixed outer type (not L3(4).2_2). Also checks the
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   ALL CO1 U43-SOURCE CENTRAL-CORE CHECKS PASSED
 # Original file: co1_3cover_u43_completion_certificate.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_16_u43.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_15_u43.g
 # Complete U4(3)-source certificate for quasisimple L3(4) cores in Co1.
 # Run with GAP 4.12.1, AtlasRep 2.1.8, CTblLib 1.3.7, TomLib 1.2.11.
 LoadPackage("atlasrep");;

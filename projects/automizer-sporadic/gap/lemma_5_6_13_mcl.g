@@ -1,4 +1,4 @@
-# Lemma 5.6.14 (the Co2 sources)
+# Lemma 5.6.13 (the Co2 sources)
 #
 # Co2 source McL (TOM classes 357, 358): full Co1 centralizer 1 and
 # normalizer 241920.
@@ -8,7 +8,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   ALL CO2-MCL SOURCE CHECKS PASSED
 # Original file: co1_co2_mcl_l34_global.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_14_mcl.g
+# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_13_mcl.g
 LoadPackage("atlasrep");;LoadPackage("tomlib");;
 co2mclProg:=AtlasProgram("Co2","maxes",3);;
 co2mclGens:=ResultOfStraightLineProgram(co2mclProg.program,co2StdGens);;

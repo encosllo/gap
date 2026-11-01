@@ -1,4 +1,4 @@
-# Lemma 5.6.14 (the Co2 sources)
+# Lemma 5.6.13 (the Co2 sources)
 #
 # The Co2 maximal 2^10:M22:2 lies in the Golay maximal: Golay orbits 48576,
 # 49152, 552, and the 552-orbit point stabilizer has order 908328960.
@@ -6,7 +6,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   CO2 2^10:M22:2 MAX CONTAINED IN GOLAY MAX CERTIFIED
 # Original file: co1_co2_golay_max_embedding.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_14_golay.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_13_golay.g
 LoadPackage("atlasrep");;
 Read("gap/data/co1_p98280b0.g1");; aa:=a11;;
 Read("gap/data/co1_p98280b0.g2");; bb:=a21;;

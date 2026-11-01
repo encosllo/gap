@@ -1,4 +1,4 @@
-# Proposition 5.6.15 (all simple L3(4) cores in Co1)
+# Proposition 5.6.14 (all simple L3(4) cores in Co1)
 #
 # Golay branch: for L = K', C(L) = 1 and |N(L)| = 241920.
 #
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   L34 core N 241920 C 1 outer image 12
 # Original file: co1_l34_core_centralizer.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_l34_22_before_normalizer.ws gap/lib.g gap/proposition_5_6_15_golay_centralizer.g
+# Usage: gap -q --quitonbreak -L work/co1_l34_22_before_normalizer.ws gap/lib.g gap/proposition_5_6_14_golay_centralizer.g
 LL:=DerivedSubgroup(KK);;
 CCL:=Centralizer(GG1,LL);;
 Print("L34 core centralizer order ",Size(CCL)," structure ",StructureDescription(CCL),"\n");

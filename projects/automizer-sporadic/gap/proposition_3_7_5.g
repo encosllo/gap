@@ -1,11 +1,11 @@
-# Proposition 3.7.6 (automizers in M22 and its covers)
+# Proposition 3.7.5 (automizers in M22 and its covers)
 #
 # The automizers of M22 (156 subgroup classes; [C2^3] is not in Spec(M22)) and the
 # witnesses in 2.M22, 3.M22 and 4.M22, built from the ATLAS generators in gap/data/.
 #
 # This is the program printed in the paper,
 # with the ATLAS input files read from gap/data/.
-# Usage: gap -q --quitonbreak gap/lib.g gap/proposition_3_7_6.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/proposition_3_7_5.g
 LoadPackage("smallgrp");
 AutIn := function(G,H)
   return FactorGroup(Normalizer(G,H),Centralizer(G,H));

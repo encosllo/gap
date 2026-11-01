@@ -1,4 +1,4 @@
-# Lemma 5.6.16 (the two triple-core sources)
+# Lemma 5.6.15 (the two triple-core sources)
 #
 # Source maximal 9 of Suz.2: C(L) = C3 x A4, |N(L)| = 2903040; the 10 abelian
 # central factors give automizers of orders 80640 (8) and 241920 (2).
@@ -8,7 +8,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   H central product [ 12, 241920, 2903040, 12, 241920 ] 3L34 CENTRAL PR...
 # Original file: co1_3l34_central_products_scan.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_3suz2_local.ws gap/lib.g gap/lemma_5_6_16_scan.g
+# Usage: gap -q --quitonbreak -L work/co1_3suz2_local.ws gap/lib.g gap/lemma_5_6_15_scan.g
 pp9:=AtlasProgram("Suz.2",1,"maxes",9);;
 zzcc:=Centre(DerivedSubgroup(ccas));;
 g9:=ResultOfStraightLineProgram(pp9.program,GeneratorsOfGroup(ccas));;

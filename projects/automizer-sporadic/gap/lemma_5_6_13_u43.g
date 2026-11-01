@@ -1,4 +1,4 @@
-# Lemma 5.6.14 (the Co2 sources)
+# Lemma 5.6.13 (the Co2 sources)
 #
 # Co2 source U4(3).D8 (TOM classes 376, 377, fused by the D8): full Co1
 # centralizer 1 and normalizer 241920.
@@ -8,7 +8,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   ALL ACTUAL CO2 U43-SOURCE L34 CHECKS PASSED
 # Original file: co1_co2_u43_l34_actual.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_14_u43.g
+# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_13_u43.g
 LoadPackage("atlasrep");;LoadPackage("tomlib");;
 pU:=AtlasProgram("Co2","maxes",7);;
 uMax:=Group(ResultOfStraightLineProgram(pU.program,co2StdGens));;

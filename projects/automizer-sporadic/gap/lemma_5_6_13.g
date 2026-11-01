@@ -1,31 +1,30 @@
-# Lemma 5.6.13 (maximal overgroups of a simple L3(4))
+# Lemma 5.6.13 (the Co2 sources)
 #
-# Order filters on the maximal subgroups for subgroup order 20160; in
-# O8+(2) only Sp6(2), 2^6:A8 and A9 remain (three classes each).
+# Constructs the maximal Co2 from the ATLAS standard words: order
+# 42305421312000, generator orders 2 and 5, product of order 28.
 #
+# Writes: work/co1_co2_standard.ws.
 # Expected: the recorded output (GAP 4.12.1) ends with
-#   L3(4) 20160
-# Original file: co1_simple_l34_maxfilter.g (L. Gong and Y. Yan, 2026-10-25).
+#   ACTUAL CO1 CO2 STANDARD MAXIMAL CONSTRUCTED
+# Original file: co1_co2_standard_construct.g (L. Gong and Y. Yan, 2026-10-25).
 # Usage: gap -q --quitonbreak gap/lib.g gap/lemma_5_6_13.g
-LoadPackage("ctbllib");;
-torder:=20160;;
-for nm in ["Co1","Co2","O8+(2)","S6(2)","M24","M23","M22.2","M22"] do
- tt:=CharacterTable(nm);;Print("GROUP ",nm," targetorder20160\n");
- for sn in Maxes(tt) do
-  st:=CharacterTable(sn);;
-  if Size(st) mod torder=0 then Print(sn," ",Size(st),"\n");fi;
- od;
-od;
-expected:=[
-["Co1",[["Co2",42305421312000],["3.Suz.2",2690072985600],["2^11:M24",501397585920],["Co3",495766656000],["2^(1+8)+.O8+(2)",89181388800],["U6(2).3.2",55180984320],["(A4xG2(4)):2",6038323200],["2^(2+12):(A8xS3)",1981808640],["3^2.U4(3).D8",235146240],["(A5xJ2):2",72576000],["(A6xU3(3)):2",4354560],["A9xS3",1088640],["(A7xL2(7)):2",846720]]],
-["Co2",[["U6(2).2",18393661440],["2^10:m22:2",908328960],["McL",898128000],["2^1+8:s6f2",743178240],["HS.2",88704000],["2^1+4+6.a8",41287680],["U4(3).D8",26127360],["M23",10200960]]],
-["O8+(2)",[["S6(2)",1451520],["O8+(2)M2",1451520],["O8+(2)M3",1451520],["2^6:A8",1290240],["O8+(2)M5",1290240],["O8+(2)M6",1290240],["A9",181440],["O8+(2)M8",181440],["O8+(2)M9",181440]]],
-["S6(2)",[["A8.2",40320]]],
-["M24",[["M23",10200960],["M22.2",887040],["2^4:a8",322560],["L3(4).3.2_2",120960]]],
-["M23",[["M22",443520],["L3(4).2_2",40320],["2^4:a7",40320],["A8",20160]]],
-["M22.2",[["M22",443520],["L3(4).2_2",40320]]],
-["M22",[["L3(4)",20160]]]];;
-Assert(0,List(expected,r->[r[1],Filtered(List(Maxes(CharacterTable(r[1])),sn->[sn,Size(CharacterTable(sn))]),x->x[2] mod torder=0)])=expected);
-Print("ALL ORDER FILTERS AGREE WITH THE RECORDED LISTS\n");
+LoadPackage("atlasrep");;
+Read("gap/data/co1_p98280b0.g1");; ca:=a11;;
+Read("gap/data/co1_p98280b0.g2");; cb:=a21;;
+co1G:=Group(ca,cb);;
+Co1Word:=function(s)
+ local x,c;
+ x:=One(co1G);
+ for c in s do if c='a' then x:=x*ca;else x:=x*cb;fi;od;
+ return x;
+end;;
+co2a:=Co1Word("abb")^22*Co1Word("ab")^20*Co1Word("abb")^18;;
+co2b:=Co1Word("abababbababb")^28*Co1Word("abababbabababababbababb")^6*Co1Word("abababbababb")^14;;
+co2StdGens:=[co2a,co2b];;
+co2Actual:=Group(co2StdGens);;
+Print("actualCo2 order=",Size(co2Actual)," generatororders=",List(co2StdGens,Order)," productorder=",Order(co2a*co2b),"\n");
+if Size(co2Actual)<>42305421312000 then Error("wrongCo2maximal");fi;
+SaveWorkspace("work/co1_co2_standard.ws");;
+Print("ACTUAL CO1 CO2 STANDARD MAXIMAL CONSTRUCTED\n");
 Print("FINAL\n");
 QUIT;

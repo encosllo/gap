@@ -1,11 +1,11 @@
-# Theorem 5.1.9 (extraction for Fi22)
+# Theorem 5.1.7 (extraction for Fi22)
 #
 # The character-table and numerical checks used in the proof.
 #
 # Expected: the output ends with ALL FI22 EXTRACTION CHECKS PASSED.
 # This is the program printed in the paper,
 # with the ATLAS input files read from gap/data/.
-# Usage: gap -q --quitonbreak gap/lib.g gap/theorem_5_1_9.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/theorem_5_1_7.g
 LoadPackage("ctbllib");;
 t := CharacterTable("U6(2)");;
 primes := [0,2,3,5,7,11];;

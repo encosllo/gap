@@ -1,4 +1,4 @@
-# Proposition 5.6.15 (all simple L3(4) cores in Co1)
+# Proposition 5.6.14 (all simple L3(4) cores in Co1)
 #
 # Golay branch: K = L3(4):2_2 from an actual M23 complement of the Golay
 # maximal, with N(K) = 80640 and C(K) = 1.
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   K GLOBAL N=80640 C=1 A=80640
 # Original file: co1_l34_22_base_presence.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak gap/lib.g gap/proposition_5_6_15_golay.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/proposition_5_6_14_golay.g
 LoadPackage("atlasrep");;
 Read("gap/data/co1_p98280b0.g1");; aa:=a11;;
 Read("gap/data/co1_p98280b0.g2");; bb:=a21;;

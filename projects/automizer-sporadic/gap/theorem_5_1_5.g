@@ -1,4 +1,4 @@
-# Theorem 5.1.6 (extraction for Suz)
+# Theorem 5.1.5 (extraction for Suz)
 #
 # The degree minima, the small Frobenius orbits and every relevant order-7
 # class.
@@ -6,7 +6,7 @@
 # Expected: the output ends with ALL SUZ EXTRACTION CHECKS PASSED.
 # This is the program printed in the paper,
 # with the ATLAS input files read from gap/data/.
-# Usage: gap -q --quitonbreak gap/lib.g gap/theorem_5_1_6.g
+# Usage: gap -q --quitonbreak gap/lib.g gap/theorem_5_1_5.g
 LoadPackage("ctbllib");;
 t := CharacterTable("G2(4)");;
 primes := [0,3,5,7,13];;

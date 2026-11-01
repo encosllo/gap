@@ -56,7 +56,7 @@ run_stage() {
 }
 run_stage 1 <<JOBS
 |lemma_3_6_2|lemma_3_6_2|
-|proposition_3_7_6|proposition_3_7_6|
+|proposition_3_7_5|proposition_3_7_5|
 |theorem_3_8_4|theorem_3_8_4|
 |theorem_3_9_3|theorem_3_9_3|
 |lemma_4_3_3|lemma_4_3_3|
@@ -66,8 +66,8 @@ run_stage 1 <<JOBS
 |section_4_10|section_4_10|
 |theorem_5_1_3|theorem_5_1_3|
 |theorem_5_1_4|theorem_5_1_4|
-|theorem_5_1_6|theorem_5_1_6|
-|theorem_5_1_9|theorem_5_1_9|
+|theorem_5_1_5|theorem_5_1_5|
+|theorem_5_1_7|theorem_5_1_7|
 |theorem_5_2_1|theorem_5_2_1|
 |theorem_5_3_3|theorem_5_3_3|
 |theorem_5_4_4|theorem_5_4_4|
@@ -94,14 +94,14 @@ run_stage 1 <<JOBS
 |lemma_5_6_9_incidence|lemma_5_6_9_incidence|
 |corollary_5_6_10|corollary_5_6_10|
 |lemma_5_6_11|lemma_5_6_11|
+|lemma_5_6_12|lemma_5_6_12|
+|lemma_5_6_12_ninecover|lemma_5_6_12_ninecover|
 |lemma_5_6_13|lemma_5_6_13|
-|lemma_5_6_13_ninecover|lemma_5_6_13_ninecover|
-|lemma_5_6_14|lemma_5_6_14|
-|lemma_5_6_14_golay|lemma_5_6_14_golay|
-|lemma_5_6_14_m23|lemma_5_6_14_m23|
-|proposition_5_6_15_golay|proposition_5_6_15_golay|
-|lemma_5_6_16_suz|lemma_5_6_16_suz|
-|lemma_5_6_16_u43|lemma_5_6_16_u43|
+|lemma_5_6_13_golay|lemma_5_6_13_golay|
+|lemma_5_6_13_m23|lemma_5_6_13_m23|
+|proposition_5_6_14_golay|proposition_5_6_14_golay|
+|lemma_5_6_15_suz|lemma_5_6_15_suz|
+|lemma_5_6_15_u43|lemma_5_6_15_u43|
 |proposition_5_7_1|proposition_5_7_1|
 |proposition_5_7_1_target|proposition_5_7_1_target|
 |proposition_5_7_3_sylow|proposition_5_7_3_sylow|
@@ -110,20 +110,20 @@ run_stage 1 <<JOBS
 JOBS
 run_stage 2 <<JOBS
 |lemma_5_6_8_select|lemma_5_6_8_select|co1_u6_p_complements
-|lemma_5_6_14_hs|lemma_5_6_14_hs|co1_co2_standard
-|lemma_5_6_14_mcl|lemma_5_6_14_mcl|co1_co2_standard
-|lemma_5_6_14_u43|lemma_5_6_14_u43|co1_co2_standard
-|proposition_5_6_15_golay_centralizer|proposition_5_6_15_golay_centralizer|co1_l34_22_before_normalizer
-|lemma_5_6_16_scan|lemma_5_6_16_scan|co1_3suz2_local
+|lemma_5_6_13_hs|lemma_5_6_13_hs|co1_co2_standard
+|lemma_5_6_13_mcl|lemma_5_6_13_mcl|co1_co2_standard
+|lemma_5_6_13_u43|lemma_5_6_13_u43|co1_co2_standard
+|proposition_5_6_14_golay_centralizer|proposition_5_6_14_golay_centralizer|co1_l34_22_before_normalizer
+|lemma_5_6_15_scan|lemma_5_6_15_scan|co1_3suz2_local
 |proposition_5_7_3_automizers|proposition_5_7_3_automizers|fi22_f1296_base_bootstrap
 |proposition_5_7_6_lattice|proposition_5_7_6_lattice|fi22_f1296_base_bootstrap
 JOBS
 run_stage 3 <<JOBS
 |lemma_5_6_8_fusion|lemma_5_6_8_fusion|co1_u6_selected_complements
 |lemma_5_6_8_outer_type|lemma_5_6_8_outer_type|co1_u6_selected_complements
-|proposition_5_6_15_u6_levi|proposition_5_6_15_u6_levi|co1_u6_selected_complements
-|proposition_5_6_15_u6_nonzero|proposition_5_6_15_u6_nonzero|co1_u6_selected_complements
-|lemma_5_6_16_outer|lemma_5_6_16_outer|co1_3l34_local_normalizer
+|proposition_5_6_14_u6_levi|proposition_5_6_14_u6_levi|co1_u6_selected_complements
+|proposition_5_6_14_u6_nonzero|proposition_5_6_14_u6_nonzero|co1_u6_selected_complements
+|lemma_5_6_15_outer|lemma_5_6_15_outer|co1_3l34_local_normalizer
 |proposition_5_7_3|proposition_5_7_3|fi22_base_allabelian3
 |proposition_5_7_3_types|proposition_5_7_3_types|fi22_base_allabelian3
 |proposition_5_7_6|proposition_5_7_6|fi22_class2_candidate_lattice

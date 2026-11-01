@@ -1,4 +1,4 @@
-# Lemma 5.6.14 (the Co2 sources)
+# Lemma 5.6.13 (the Co2 sources)
 #
 # Co2 source HS.2 (TOM class 580): full Co1 centralizer 1 and normalizer 241920.
 #
@@ -7,7 +7,7 @@
 # Expected: the recorded output (GAP 4.12.1) ends with
 #   ALL CO2 HS-SOURCE CO1 CHECKS PASSED
 # Original file: co1_co2_hs_l34_actual.g (L. Gong and Y. Yan, 2026-10-25).
-# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_14_hs.g
+# Usage: gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_13_hs.g
 LoadPackage("atlasrep");;
 LoadPackage("tomlib");;
 pr:=AtlasProgram("Co2",1,"maxes",5);;
