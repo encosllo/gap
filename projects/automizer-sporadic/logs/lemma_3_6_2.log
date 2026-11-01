@@ -1,4 +1,4 @@
-GAP 4.16dev; CTblLib 1.3.11
+GAP 4.16.1; CTblLib 1.3.11
 D order = 5760; central class positions = [ 1, 2 ]; class sizes = [ 1, 1 ]
 2^4:A6 normal subgroup orders = [ 1, 16, 5760 ]
 2^4.s6 normal subgroup orders = [ 1, 16, 5760, 11520 ]

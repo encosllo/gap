@@ -28,7 +28,7 @@ GAP distribution). AtlasRep downloads the ATLAS representations and straight-lin
 not in its local cache, so the first run needs internet access. The large generator files
 (among them $\mathit{Co}_1$ on 98280 points and $3.O_7(3)$ on 1134 points, which AtlasRep only
 delivers with remote access) are read from `gap/data/`. The runs in `logs/` were made with
-GAP 4.16dev (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 2026-11-01; see
+GAP 4.16.1 (AtlasRep 2.1.12, CTblLib 1.3.11, TomLib 1.2.11, SmallGrp 1.7.0) on 2026-11-01; see
 `logs/run_checks.txt`. The shell script needs `bash` and `xargs`. All commands are run from this directory
 (`projects/automizer-sporadic/`).
 
@@ -138,8 +138,8 @@ gap -q --quitonbreak -L work/co1_co2_standard.ws gap/lib.g gap/lemma_5_6_13_mcl.
 ```
 
 The workspaces are large and are not committed. To reproduce all the logs (4 parallel processes,
-about 20 minutes with `NJOBS=2` on a MacBook Air M2 with 8 GB; the workspaces in `work/` take about
-9 GB of disk; `NJOBS=1 ./run_checks.sh` uses less memory):
+21 minutes with `NJOBS=2` on a MacBook Air M2 with 8 GB; the workspaces in `work/` take about
+9.3 GB of disk; `NJOBS=1 ./run_checks.sh` uses less memory):
 
 ```
 ./run_checks.sh
@@ -148,7 +148,7 @@ about 20 minutes with `NJOBS=2` on a MacBook Air M2 with 8 GB; the workspaces in
 `run_checks.sh` runs the jobs in six stages, so that every workspace exists before it is loaded.
 The chains are: `lemma_5_6_8_complements` → `lemma_5_6_8_select` → `lemma_5_6_8_fusion`,
 `lemma_5_6_8_outer_type`, `proposition_5_6_14_u6_nonzero`, `proposition_5_6_14_u6_levi`;
-`proposition_5_6_14_golay` → `proposition_5_6_14_golay_centralizer`; `lemma_5_6_14` →
+`proposition_5_6_14_golay` → `proposition_5_6_14_golay_centralizer`; `lemma_5_6_13` →
 `lemma_5_6_13_mcl`, `_hs`, `_u43`; `lemma_5_6_15_suz` → `lemma_5_6_15_scan` →
 `lemma_5_6_15_outer`; `proposition_5_7_3_sylow` → `proposition_5_7_3_automizers` →
 `proposition_5_7_3`, `proposition_5_7_3_types`, `proposition_5_7_7` → `proposition_5_7_7_*`; and
@@ -170,10 +170,14 @@ the workspace of a failed producer, and exits with status 1. A complete run ends
 
 The computations were first run by L. Gong and Y. Yan with GAP 4.12.1 (CTblLib 1.3.7, AtlasRep
 2.1.8, TomLib 1.2.11, SmallGrp 1.5.3). All the scripts were run again with GAP 4.16.1 (2026-10-31) and,
-after the terminal assertions were added, with GAP 4.16dev (2026-11-01; the logs here). Every log
-contains every decisive line of the earlier runs; the only difference is the order in which
-`lemma_5_6_8_complements.g` prints the four complement classes, which varies between runs and is
-fixed by `lemma_5_6_8_select.g`. Two scripts were adapted to GAP 4.16 (see their headers): in
+after the terminal assertions were added, with GAP 4.16dev (2026-11-01). The logs here are from a
+fresh full run with GAP 4.16.1 on 2026-11-01 (MacBook Air M2, 8 GB, macOS 27.0.1, two parallel
+processes, 21 minutes), starting with no `work/` directory. All 77 jobs passed. Compared with the
+GAP 4.16dev run, 75 logs are byte-for-byte identical; `lemma_3_6_2.log` changes only the GAP version
+line, and `lemma_5_6_15_u43.log` changes only the order of central-product rows, with the same
+values and multiplicities. In earlier runs, the order of the four complement classes printed by
+`lemma_5_6_8_complements.g` also varied; `lemma_5_6_8_select.g` fixes their order intrinsically.
+Two scripts were adapted to GAP 4.16 (see their headers): in
 `proposition_5_7_7.g` a variable `Next`, now a read-only global, is renamed; in
 `proposition_5_7_7_omitted.g` and `proposition_5_7_7_omitted_check.g` the thirteen records rejected by
 the quaternion filter are selected by their automizer order 1296 as well as by their string label,
