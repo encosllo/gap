@@ -1,0 +1,14 @@
+{
+  "title": "GAP code for the computations in the papers of E. Cosme Llópez and coauthors",
+  "description": "GAP programs used for the computations in the papers of Enric Cosme Llópez and coauthors, together with the output of the runs. Each paper has its own self-contained directory under projects/: automizer-alternating, automizer-sporadic, derived-automorphisms, derived-norm and residual-defect. The code (*.g, *.sh) is released under the MIT License and the logs under CC BY 4.0; see the LICENSE files of each project.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {"name": "Gong, Lü", "affiliation": "School of Mathematics and Statistics, Nantong University, China"},
+    {"name": "Yan, Yan", "affiliation": "School of Mathematics and Statistics, Nantong University, China"},
+    {"name": "Wang, Bo", "affiliation": "School of Mathematics and Statistics, Nantong University, China"},
+    {"name": "Cosme Llópez, Enric", "affiliation": "Departament de Matemàtiques, Universitat de València, Spain"}
+  ],
+  "keywords": ["GAP", "finite groups", "computational group theory"]
+}
