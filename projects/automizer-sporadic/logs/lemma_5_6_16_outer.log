@@ -1,0 +1,6 @@
+centre-fixed normalizer autoL order 40320
+L3(4).2_1 true
+L3(4).2_2 false
+L3(4).2_3 false
+OUTER TYPE L3(4).2_1 ASSERTED
+FINAL

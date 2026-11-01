@@ -1,0 +1,8 @@
+Suz full maximal order filter 
+[ [ "G2(4)", 251596800 ], [ "3_2.U4(3).2_3'", 19595520 ], [ "J2.2", 1209600 ],
+  [ "(a4xpsl(3,4)):2", 483840 ] ]
+no simple T in G2(4)
+no simple T in U5(2)
+no simple T in J2
+ALL SUZ T-SOURCE MAXIMAL FILTER CHECKS PASSED
+FINAL

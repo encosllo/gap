@@ -1,0 +1,5 @@
+all divisible-order abelian3 automizers checked: 26 types 
+[ [ 1296, [ 16, 11 ], 81, false ], [ 3888, [ 16, 8 ], 243, false ], 
+  [ 51840, [ 128, 928 ], 81, false ] ]
+ALL FI22 ABELIAN3 EMBEDDING ROWS AUDIT CHECKS PASSED
+FINAL

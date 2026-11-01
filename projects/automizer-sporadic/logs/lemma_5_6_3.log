@@ -1,0 +1,11 @@
+K order=40320 structure=PSL(3,4) : C2
+K-invariant centrecontaining dims=[ 1, 10, 11, 12 ]
+Syntax warning: Unbound global variable in gap/lemma_5_6_3.g:32
+ Print("dim=",Length(bb)," stab=",Size(kk)," charmultiplicities=",Collected(Li\
+st(Set(ch),v->Number(ch,x->x=v))),"\n");
+                                                                              \
+                     ^^
+dim=10 stab=120960 charmultiplicities=[ [ 1, 21 ], [ 3, 1 ] ]
+dim=11 stab=887040 charmultiplicities=[ [ 1, 22 ], [ 2, 1 ] ]
+GOLAY SUBSPACE CHECKS PASSED
+FINAL

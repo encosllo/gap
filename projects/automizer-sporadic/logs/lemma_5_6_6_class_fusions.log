@@ -1,0 +1,31 @@
+Syntax warning: Unbound global variable in gap/lemma_5_6_6_class_fusions.g:18
+ Add(nfus,Length(fus));if Length(fus)>0 then Add(centimg,Set(List(fus,f->f{Cla\
+ssPositionsOfCentre(tt)})));fi;
+                                                                              \
+                    ^^
+Syntax warning: Unbound global variable in gap/lemma_5_6_6_class_fusions.g:21
+  Print("centre images ",Set(List(fus,f->f{ClassPositionsOfCentre(tt)})),"\n")\
+;
+                                                                  ^^
+START 2.L3(4)
+CO1 FUSIONS 2.L3(4) 0
+START 3.L3(4)
+CO1 FUSIONS 3.L3(4) 3
+centre images [ [ 1, 5, 5 ] ]
+START 2^2.L3(4)
+CO1 FUSIONS 2^2.L3(4) 0
+START 4_1.L3(4)
+CO1 FUSIONS 4_1.L3(4) 0
+START 4_2.L3(4)
+CO1 FUSIONS 4_2.L3(4) 0
+START 6.L3(4)
+CO1 FUSIONS 6.L3(4) 0
+START (2^2x3).L3(4)
+CO1 FUSIONS (2^2x3).L3(4) 0
+START 12_1.L3(4)
+CO1 FUSIONS 12_1.L3(4) 0
+START 12_2.L3(4)
+CO1 FUSIONS 12_2.L3(4) 0
+COVER CLASSFUSION CHECKS FINISHED
+ALL COVER CLASS FUSION CHECKS PASSED
+FINAL

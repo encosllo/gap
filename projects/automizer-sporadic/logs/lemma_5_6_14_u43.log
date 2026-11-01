@@ -1,0 +1,10 @@
+actualCo2 U43.D8 maxorder=26127360
+actualU43 socleorder=3265920
+manualU43 b6 centralizer=72
+manualU43 checkedstandard orders=[ 2, 6, 7, 5 ]
+allU43 Tclasses=[ 376, 377 ]
+local max N,C=[ 80640, 1 ] U43conjugacy-class orbit=2
+GLOBAL Co1 U43-source Tcentralizer=1
+GLOBAL Co1 U43-source Tnormalizer=241920 automizer=241920
+ALL ACTUAL CO2 U43-SOURCE L34 CHECKS PASSED
+FINAL

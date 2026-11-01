@@ -1,0 +1,6 @@
+localnormalizerorder=40320
+L3(4).2_1 tablematch=false
+L3(4).2_2 tablematch=true
+L3(4).2_3 tablematch=false
+OUTER TYPE L3(4).2_2 ASSERTED
+FINAL

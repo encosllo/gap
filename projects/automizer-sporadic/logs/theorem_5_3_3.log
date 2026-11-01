@@ -1,0 +1,5 @@
+all classes = 373; checks = 63
+order-12 automizers = [ [ 70, 24, [ 12, 4 ] ] ]
+M,K,N,C orders = [ 120960, 24, 864, 72 ]
+ALL MCL COVER CHECKS PASSED
+FINAL

@@ -1,0 +1,6 @@
+q=2 degree=6 |T|=6048 |U|=216 fixed=0
+q=9 degree=3 |T|=6048 |U|=216 fixed=0
+J2 subgroup classes=146; order32 cases=3; IDs=[ [ 32, 27 ] ]; centers=[ 4 ]
+2.J2 witness |H|=32 H ID=[ 32, 8 ] |N|=128 |C|=4 A ID=[ 32, 6 ] |Z(A)|=2
+ALL J2 CHECKS PASSED
+FINAL

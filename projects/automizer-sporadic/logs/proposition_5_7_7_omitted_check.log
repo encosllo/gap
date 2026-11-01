@@ -1,0 +1,19 @@
+TOTAL 1535 RETAINED 154 EXCLUDED 1381 OMITTED-STRING-SUBSET 13
+index	P_order	N_order	C_order	automizer_order	Sylow2_Id	HasQ8	retained
+1375	81	314928	243	1296	[ 16, 11 ]	false	false
+1378	81	104976	81	1296	[ 16, 11 ]	false	false
+1386	81	314928	243	1296	[ 16, 11 ]	false	false
+1387	81	314928	243	1296	[ 16, 11 ]	false	false
+1392	81	314928	243	1296	[ 16, 11 ]	false	false
+1414	81	314928	243	1296	[ 16, 11 ]	false	false
+1415	81	104976	81	1296	[ 16, 11 ]	false	false
+1417	81	104976	81	1296	[ 16, 11 ]	false	false
+1421	81	104976	81	1296	[ 16, 11 ]	false	false
+1422	81	104976	81	1296	[ 16, 11 ]	false	false
+1452	81	314928	243	1296	[ 16, 11 ]	false	false
+1512	81	104976	81	1296	[ 16, 11 ]	false	false
+1528	81	314928	243	1296	[ 16, 11 ]	false	false
+stored descriptions [ [ 1296, 3490 ] ]
+ALL THIRTEEN OMITTED-STRING ENTRIES ARE ALREADY WITHIN THE 1381 EXCLUDED REPRE\
+SENTATIVES
+FINAL

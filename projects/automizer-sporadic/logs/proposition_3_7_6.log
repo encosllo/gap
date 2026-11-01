@@ -1,0 +1,7 @@
+M22 subgroup classes: 156; order-8 types: [ [ 8, 3 ], [ 8, 4 ] ]
+M22 abelian-2 automizer IDs: [ [ 1, 1 ], [ 2, 1 ], [ 4, 2 ], [ 6, 1 ], 
+  [ 8, 3 ], [ 12, 3 ], [ 24, 12 ], [ 120, 34 ], [ 168, 42 ], [ 360, 118 ] ]
+3.M22 abelian-3 automizer IDs: [ [ 1, 1 ], [ 2, 1 ], [ 6, 1 ] ]
+witness: C4 x C2 x C2; |H|=16; |N|=128; |C|=16; ID=[ 8, 5 ]
+witness: C4 x C2 x C2; |H|=16; |N|=256; |C|=32; ID=[ 8, 5 ]
+FINAL

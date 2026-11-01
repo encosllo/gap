@@ -1,0 +1,6 @@
+order 1296 all abstract type multiplicities [ [ [ 1296, 3490 ], 13 ] ]
+order 3888 all abstract type multiplicities 
+[ [ "(((C3 x C3 x C3 x C3) : Q8) : C3) : C2", 12 ] ]
+order 51840 all abstract type multiplicities [ [ "O(5,3) : C2", 1 ] ]
+all rank<=2 abelian3 types [ [ 3 ], [ 3, 3 ], [ 3, 9 ], [ 9 ] ]
+FINAL

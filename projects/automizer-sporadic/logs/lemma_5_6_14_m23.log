@@ -1,0 +1,18 @@
+actual standard Co2 [ 2, 5, 28, 9 ]
+M23 TOM standardinfo [ rec(
+      ATLAS := true,
+      description := "|a|=2, |b|=4, |ab|=23, |(ab)^4(ba)^2bbabb|=8",
+      generators := "a, b",
+      script := 
+       [ [ 1, 2 ], [ 2, 4 ], [ 1, 1, 2, 1, 23 ], 
+          [ [ 1 .. 2 ], 
+              StraightLineProgram( [ [ [ 1, 1, 2, 1 ], 3 ], [ [ 3, 4 ], 4 ], 
+                  [ [ 2, 1, 1, 1 ], 5 ], [ [ 5, 2 ], 6 ], 
+                  [ [ 2, 1, 2, 1, 1, 1, 2, 1, 2, 1 ], 7 ], 
+                  [ [ 6, 1, 7, 1 ], 8 ], [ [ 4, 1, 8, 1 ], 9 ] ], 2 ), 8 ] ],
+      standardization := 1 ) ]
+M23 order20160 TOM indices [ 199, 200 ]
+M23source T globalC 1
+M23source T globalN 241920
+ALL ACTUAL CO2 M23-SOURCE CO1 CHECKS PASSED classes 1
+FINAL

@@ -1,0 +1,178 @@
+Syntax warning: Unbound global variable in gap/proposition_5_7_9.g:86
+    MIXED_REALIZER:=he;MIXED_NORMALIZER:=ne;MIXED_CENTRALIZER:=ce;MIXED_AUTOMI\
+ZER:=ae;
+    ^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in gap/proposition_5_7_9.g:86
+    MIXED_REALIZER:=he;MIXED_NORMALIZER:=ne;MIXED_CENTRALIZER:=ce;MIXED_AUTOMI\
+ZER:=ae;
+                       ^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in gap/proposition_5_7_9.g:86
+    MIXED_REALIZER:=he;MIXED_NORMALIZER:=ne;MIXED_CENTRALIZER:=ce;MIXED_AUTOMI\
+ZER:=ae;
+                                            ^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in gap/proposition_5_7_9.g:86
+    MIXED_REALIZER:=he;MIXED_NORMALIZER:=ne;MIXED_CENTRALIZER:=ce;MIXED_AUTOMI\
+ZER:=ae;
+                                                                  ^^^^^^^^^^^^\
+^^^
+DERIVED CACHE 1 Dorder 3 NDorder 5038848 pc true
+NEW GLOBAL FAMILY 1 parent 2 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 1 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+NEW GLOBAL FAMILY 2 parent 6 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 2 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+NEW GLOBAL FAMILY 3 parent 13 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 3 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+NEW GLOBAL FAMILY 4 parent 20 type [ 27, 3 ] N,C,A [ 1679616, 3888, 432 ]
+FAMILY FINISHED 4 PN2 256 subgroupclasses 220 extchecks 25 order1296 0
+DERIVED CACHE 2 Dorder 3 NDorder 5038848 pc true
+NEW GLOBAL FAMILY 5 parent 48 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 5 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+PROGRESS parents 100 families 5 fused 3 extchecks 41
+NEW GLOBAL FAMILY 6 parent 144 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 6 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+NEW GLOBAL FAMILY 7 parent 173 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 7 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+PROGRESS parents 200 families 7 fused 3 extchecks 49
+PROGRESS parents 300 families 7 fused 3 extchecks 49
+PROGRESS parents 400 families 7 fused 3 extchecks 49
+PROGRESS parents 500 families 7 fused 3 extchecks 49
+PROGRESS parents 600 families 7 fused 3 extchecks 49
+PROGRESS parents 700 families 7 fused 6 extchecks 49
+PROGRESS parents 800 families 7 fused 7 extchecks 49
+DERIVED CACHE 3 Dorder 3 NDorder 5038848 pc true
+DERIVED CACHE 4 Dorder 3 NDorder 34992 pc true
+NEW GLOBAL FAMILY 8 parent 906 type [ 27, 3 ] N,C,A [ 11664, 27, 432 ]
+FAMILY FINISHED 8 PN2 16 subgroupclasses 9 extchecks 1 order1296 0
+DERIVED CACHE 5 Dorder 3 NDorder 5038848 pc true
+PROGRESS parents 900 families 8 fused 9 extchecks 50
+DERIVED CACHE 6 Dorder 3 NDorder 5038848 pc true
+NEW GLOBAL FAMILY 9 parent 990 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 9 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+NEW GLOBAL FAMILY 10 parent 1018 type [ 27, 3 ] N,C,A [ 209952, 486, 432 ]
+FAMILY FINISHED 10 PN2 32 subgroupclasses 33 extchecks 4 order1296 0
+DERIVED CACHE 7 Dorder 3 NDorder 5038848 pc true
+DERIVED CACHE 8 Dorder 3 NDorder 5038848 pc true
+DERIVED CACHE 9 Dorder 3 NDorder 5038848 pc true
+PROGRESS parents 1000 families 10 fused 9 extchecks 58
+DERIVED CACHE 10 Dorder 3 NDorder 5038848 pc true
+DERIVED CACHE 11 Dorder 3 NDorder 5038848 pc true
+NEW GLOBAL FAMILY 11 parent 1127 type [ 81, 12 ] N,C,A [ 209952, 81, 2592 ]
+ORDER1296 [ 1127, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+ORDER1296 [ 1127, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+FAMILY FINISHED 11 PN2 32 subgroupclasses 33 extchecks 14 order1296 2
+NEW GLOBAL FAMILY 12 parent 1161 type [ 81, 12 ] N,C,A [ 209952, 162, 1296 ]
+ORDER1296 [ 1161, 2, 162, 9, 209952, 162, 27, true, [ 16, 12 ] ]
+ORDER1296 [ 1161, 2, 162, 9, 23328, 18, 27, true, [ 16, 12 ] ]
+ORDER1296 [ 1161, 2, 162, 18, 23328, 18, 27, true, [ 16, 12 ] ]
+ORDER1296 [ 1161, 4, 324, 18, 23328, 18, 27, true, [ 16, 12 ] ]
+FAMILY FINISHED 12 PN2 32 subgroupclasses 77 extchecks 4 order1296 4
+PROGRESS parents 1100 families 12 fused 11 extchecks 76
+NEW GLOBAL FAMILY 13 parent 1291 type [ 81, 12 ] N,C,A [ 69984, 81, 864 ]
+ORDER1296 [ 1291, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+ORDER1296 [ 1291, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+FAMILY FINISHED 13 PN2 32 subgroupclasses 33 extchecks 14 order1296 2
+PROGRESS parents 1200 families 13 fused 11 extchecks 90
+PROGRESS parents 1300 families 13 fused 11 extchecks 90
+PROGRESS parents 1400 families 13 fused 11 extchecks 90
+PROGRESS parents 1500 families 13 fused 11 extchecks 90
+PROGRESS parents 1600 families 13 fused 11 extchecks 90
+PROGRESS parents 1700 families 13 fused 11 extchecks 90
+PROGRESS parents 1800 families 13 fused 13 extchecks 90
+PROGRESS parents 1900 families 13 fused 15 extchecks 90
+PROGRESS parents 2000 families 13 fused 15 extchecks 90
+PROGRESS parents 2100 families 13 fused 15 extchecks 90
+PROGRESS parents 2200 families 13 fused 15 extchecks 90
+PROGRESS parents 2300 families 13 fused 16 extchecks 90
+PROGRESS parents 2400 families 13 fused 17 extchecks 90
+PROGRESS parents 2500 families 13 fused 17 extchecks 90
+PROGRESS parents 2600 families 13 fused 19 extchecks 90
+PROGRESS parents 2700 families 13 fused 20 extchecks 90
+PROGRESS parents 2800 families 13 fused 20 extchecks 90
+PROGRESS parents 2900 families 13 fused 20 extchecks 90
+PROGRESS parents 3000 families 13 fused 20 extchecks 90
+PROGRESS parents 3100 families 13 fused 20 extchecks 90
+PROGRESS parents 3200 families 13 fused 20 extchecks 90
+PROGRESS parents 3300 families 13 fused 21 extchecks 90
+PROGRESS parents 3400 families 13 fused 21 extchecks 90
+PROGRESS parents 3500 families 13 fused 21 extchecks 90
+PROGRESS parents 3600 families 13 fused 21 extchecks 90
+PROGRESS parents 3700 families 13 fused 21 extchecks 90
+PROGRESS parents 3800 families 13 fused 21 extchecks 90
+PROGRESS parents 3900 families 13 fused 21 extchecks 90
+PROGRESS parents 4000 families 13 fused 21 extchecks 90
+PROGRESS parents 4100 families 13 fused 22 extchecks 90
+PROGRESS parents 4200 families 13 fused 22 extchecks 90
+NEW GLOBAL FAMILY 14 parent 4441 type [ 81, 12 ] N,C,A [ 209952, 81, 2592 ]
+ORDER1296 [ 4441, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+ORDER1296 [ 4441, 8, 648, 1, 1296, 1, 81, false, [ 16, 11 ] ]
+FAMILY FINISHED 14 PN2 32 subgroupclasses 33 extchecks 14 order1296 2
+PROGRESS parents 4300 families 14 fused 22 extchecks 104
+PROGRESS parents 4400 families 14 fused 22 extchecks 104
+PROGRESS parents 4500 families 14 fused 22 extchecks 104
+PROGRESS parents 4600 families 14 fused 22 extchecks 104
+PROGRESS parents 4700 families 14 fused 22 extchecks 104
+DERIVED CACHE 12 Dorder 3 NDorder 5038848 pc true
+PROGRESS parents 4800 families 14 fused 22 extchecks 104
+DERIVED CACHE 13 Dorder 3 NDorder 5038848 pc true
+PROGRESS parents 4900 families 14 fused 22 extchecks 104
+DERIVED CACHE 14 Dorder 3 NDorder 34992 pc true
+DERIVED CACHE 15 Dorder 3 NDorder 5038848 pc true
+NEW GLOBAL FAMILY 15 parent 5216 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 15 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+NEW GLOBAL FAMILY 16 parent 5220 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 16 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+NEW GLOBAL FAMILY 17 parent 5226 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 17 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+NEW GLOBAL FAMILY 18 parent 5230 type [ 243, 65 ] N,C,A [ 209952, 27, 7776 ]
+FAMILY FINISHED 18 PN2 32 subgroupclasses 33 extchecks 14 order1296 0
+NEW GLOBAL FAMILY 19 parent 5236 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 19 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+NEW GLOBAL FAMILY 20 parent 5238 type [ 243, 65 ] N,C,A [ 1679616, 54, 31104 ]
+ORDER1296 [ 5238, 8, 1944, 3, 7776, 6, 81, true, [ 16, 12 ] ]
+ORDER1296 [ 5238, 8, 1944, 3, 7776, 6, 81, true, [ 16, 12 ] ]
+ORDER1296 [ 5238, 8, 1944, 3, 7776, 6, 81, true, [ 16, 12 ] ]
+ORDER1296 [ 5238, 16, 3888, 3, 7776, 6, 81, true, [ 16, 4 ] ]
+ORDER1296 [ 5238, 16, 3888, 3, 7776, 6, 81, true, [ 16, 4 ] ]
+ORDER1296 [ 5238, 16, 3888, 3, 7776, 6, 81, true, [ 16, 4 ] ]
+FAMILY FINISHED 20 PN2 256 subgroupclasses 220 extchecks 120 order1296 6
+NEW GLOBAL FAMILY 21 parent 5239 type [ 243, 65 ] N,C,A [ 209952, 27, 7776 ]
+FAMILY FINISHED 21 PN2 32 subgroupclasses 33 extchecks 14 order1296 0
+NEW GLOBAL FAMILY 22 parent 5247 type [ 243, 65 ] N,C,A [ 209952, 27, 7776 ]
+FAMILY FINISHED 22 PN2 32 subgroupclasses 33 extchecks 14 order1296 0
+NEW GLOBAL FAMILY 23 parent 5252 type [ 243, 62 ] N,C,A [ 104976, 27, 3888 ]
+ORDER1296 [ 5252, 4, 972, 3, 3888, 3, 81, true, [ 16, 8 ] ]
+ORDER1296 [ 5252, 4, 972, 3, 3888, 3, 81, true, [ 16, 8 ] ]
+FAMILY FINISHED 23 PN2 16 subgroupclasses 9 extchecks 5 order1296 2
+NEW GLOBAL FAMILY 24 parent 5257 type [ 243, 62 ] N,C,A [ 104976, 27, 3888 ]
+ORDER1296 [ 5257, 4, 972, 3, 3888, 3, 81, true, [ 16, 8 ] ]
+ORDER1296 [ 5257, 4, 972, 3, 3888, 3, 81, true, [ 16, 8 ] ]
+FAMILY FINISHED 24 PN2 16 subgroupclasses 9 extchecks 5 order1296 2
+PROGRESS parents 5000 families 24 fused 28 extchecks 296
+NEW GLOBAL FAMILY 25 parent 5305 type [ 243, 62 ] N,C,A [ 69984, 27, 2592 ]
+ORDER1296 [ 5305, 4, 972, 3, 3888, 3, 81, true, [ 16, 4 ] ]
+ORDER1296 [ 5305, 4, 972, 3, 3888, 3, 81, true, [ 16, 4 ] ]
+FAMILY FINISHED 25 PN2 32 subgroupclasses 36 extchecks 12 order1296 2
+PROGRESS parents 5100 families 25 fused 32 extchecks 308
+PROGRESS parents 5200 families 25 fused 33 extchecks 308
+PROGRESS parents 5300 families 25 fused 33 extchecks 308
+NEW GLOBAL FAMILY 26 parent 5621 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 26 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+PROGRESS parents 5400 families 26 fused 35 extchecks 313
+PROGRESS parents 5500 families 26 fused 37 extchecks 313
+PROGRESS parents 5600 families 26 fused 37 extchecks 313
+PROGRESS parents 5700 families 26 fused 39 extchecks 313
+PROGRESS parents 5800 families 26 fused 42 extchecks 313
+NEW GLOBAL FAMILY 27 parent 6106 type [ 243, 62 ] N,C,A [ 34992, 27, 1296 ]
+FAMILY FINISHED 27 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+NEW GLOBAL FAMILY 28 parent 6146 type [ 243, 62 ] N,C,A [ 314928, 27, 11664 ]
+FAMILY FINISHED 28 PN2 16 subgroupclasses 9 extchecks 5 order1296 0
+PROGRESS parents 5900 families 28 fused 45 extchecks 323
+PROGRESS parents 6000 families 28 fused 47 extchecks 323
+PROGRESS parents 6100 families 28 fused 52 extchecks 323
+PROGRESS parents 6200 families 28 fused 54 extchecks 323
+NEW GLOBAL FAMILY 29 parent 6522 type [ 729, 501 ] N,C,A [ 419904, 9, 46656 ]
+FAMILY FINISHED 29 PN2 64 subgroupclasses 128 extchecks 13 order1296 0
+ALL NONABEL MIXED FINISHED parents 6278 globalfamilies 29 fused 55 extchecks 
+336 order1296 22 target false
+MIXED ABSENCE ASSERTED
+FINAL

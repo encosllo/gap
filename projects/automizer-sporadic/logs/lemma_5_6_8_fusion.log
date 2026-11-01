@@ -1,0 +1,6 @@
+parabolic fixedpointset size=6
+Nmax6(P) order=61931520
+N_A complement orders=[ 40320, 120960, 40320, 40320 ]
+Pconjugacy class orbitlengths underA=[ 3, 1, 3, 3 ]
+ALL UNITARY COMPLEMENT FUSION CHECKS PASSED
+FINAL

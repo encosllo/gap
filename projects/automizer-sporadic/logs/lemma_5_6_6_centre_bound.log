@@ -1,0 +1,9 @@
+Co1order7 centralizers=[ 17640, 1176 ]
+max7class 5 localC=17640 globalC=17640
+max7class 36 localC=1176 globalC=1176
+max7class 40 localC=49 globalC=17640
+max7class 41 localC=49 globalC=1176
+factororder=2520 Sylow2=D8 maxabelian2order=4
+factororder=168 Sylow2=D8 maxabelian2order=4
+QUASISIMPLE L34 CENTRAL 2-PART BOUND FOUR CERTIFIED
+FINAL

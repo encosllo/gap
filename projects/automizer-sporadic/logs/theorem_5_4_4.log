@@ -1,0 +1,8 @@
+Sylow 3 classes = 720; large abelian classes = 1
+M5 complement [H,N,C] = [ 660, 1320, 1 ]
+M12 class 135 [H,N,C] = [ 660, 1320, 1 ]
+M12 class 136 [H,N,C] = [ 660, 1320, 1 ]
+U5(2) class 484 [H,N,C] = [ 660, 1320, 1 ]
+cover witness [H,N,C,A] = [ 243, 481140, 729, 660 ]
+ALL SUZ TRIPLE-COVER CHECKS PASSED
+FINAL

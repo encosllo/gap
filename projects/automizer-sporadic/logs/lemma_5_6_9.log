@@ -1,0 +1,46 @@
+Syntax warning: Unbound global variable in gap/lemma_5_6_9.g:18
+  for ii in Filtered([1..Length(ord)],i->ord[i]=20160) do
+                                         ^^^
+Syntax warning: Unbound global variable in gap/lemma_5_6_9.g:25
+    cont:=Filtered(minds,j->ii in subs[j]);
+                                  ^^^^
+Syntax warning: Unbound global variable in gap/lemma_5_6_9.g:26
+    Add(l34rows,[ii,[Size(nn),Size(cc)],List(cont,j->[j,ord[j]])]);
+                                                        ^^^
+Syntax warning: Unbound global variable in gap/lemma_5_6_9.g:27
+    Print("L34 ",ii," N,C ",[Size(nn),Size(cc)]," maximal containment ",List(c\
+ont,j->[j,ord[j]]),"\n");
+                                                                              \
+          ^^^
+Co3 TOM classes 2483 maximal indices [ 2482, 2480, 2479, 2478, 2474, 2472, 
+  2470, 2469, 2462, 2458, 2457, 2397, 2318, 2018 ]
+order20160 class 2373 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 2373 N,C [ 241920, 1 ] maximal containment 
+[ [ 2482, 1796256000 ], [ 2479, 13063680 ], [ 2458, 241920 ] ]
+order20160 class 2374 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 2374 N,C [ 80640, 1 ] maximal containment 
+[ [ 2482, 1796256000 ], [ 2480, 44352000 ], [ 2479, 13063680 ], 
+  [ 2478, 10200960 ] ]
+order20160 class 2375 element orders [ 1, 2, 3, 4, 5, 6, 7, 15 ]
+U4(3) TOM classes 381 maximal indices [ 380, 379, 378, 377, 376, 375, 374, 
+  372, 371, 366, 365, 364, 363, 356, 345, 344 ]
+order20160 class 376 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 376 N,C [ 20160, 1 ] maximal containment [ [ 376, 20160 ] ]
+order20160 class 377 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 377 N,C [ 20160, 1 ] maximal containment [ [ 377, 20160 ] ]
+McL TOM classes 373 maximal indices [ 372, 371, 370, 369, 368, 367, 366, 365, 
+  364, 363, 354, 344 ]
+order20160 class 357 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 357 N,C [ 40320, 1 ] maximal containment 
+[ [ 372, 3265920 ], [ 366, 40320 ] ]
+order20160 class 358 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 358 N,C [ 20160, 1 ] maximal containment 
+[ [ 372, 3265920 ], [ 371, 443520 ], [ 370, 443520 ] ]
+HS TOM classes 589 maximal indices [ 588, 587, 586, 583, 582, 579, 578, 577, 
+  576, 575, 571, 551 ]
+order20160 class 580 element orders [ 1, 2, 3, 4, 5, 7 ]
+L34 580 N,C [ 40320, 1 ] maximal containment 
+[ [ 588, 443520 ], [ 583, 40320 ] ]
+order20160 class 581 element orders [ 1, 2, 3, 4, 5, 6, 7, 15 ]
+ALL L34 CONTAINMENT CHECKS PASSED
+FINAL

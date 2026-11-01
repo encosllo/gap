@@ -1,0 +1,222 @@
+Ru C3 witness H,N,C [ 4, 349440, 116480 ]
+cover abelian Sylow2 classes 5751
+rank 2 order3 matrices 2
+rank 3 order3 matrices 56
+rank 4 order3 matrices 1232
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:40
+ if Length(inv)>=2 and ForAny(Set(inv),q->Number(inv,x->x=q)>=2) then
+                                                 ^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:45
+   cols:=List(vv,v->NrMovedPoints(PreImagesRepresentative(iso,Product([1..rr],\
+j->gens[j]^(Int(v[j]))))));
+                                                                              \
+   ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:46
+   possibleC3:=Filtered(ruC3perms.(String(rr)),q->ForAll([1..Length(cols)],j->\
+cols[j]=cols[j^q]));
+                                                                    ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:46
+   possibleC3:=Filtered(ruC3perms.(String(rr)),q->ForAll([1..Length(cols)],j->\
+cols[j]=cols[j^q]));
+                                                                              \
+^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:46
+   possibleC3:=Filtered(ruC3perms.(String(rr)),q->ForAll([1..Length(cols)],j->\
+cols[j]=cols[j^q]));
+                                                                              \
+        ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:49
+    hm:=List(vv,v->PreImagesRepresentative(iso,Product([1..rr],j->gens[j]^Int(\
+v[j]))));
+                                                                  ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:52
+     pt:=orb[1];key:=Filtered([1..Length(hm)],j->pt^hm[j]=pt);pos:=Position(ke\
+ys,key);
+                                                 ^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:52
+     pt:=orb[1];key:=Filtered([1..Length(hm)],j->pt^hm[j]=pt);pos:=Position(ke\
+ys,key);
+                                                    ^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:52
+     pt:=orb[1];key:=Filtered([1..Length(hm)],j->pt^hm[j]=pt);pos:=Position(ke\
+ys,key);
+                                                          ^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                  ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                     ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                              \
+^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                              \
+                           ^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                              \
+                                  ^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                              \
+                                               ^^^^
+Syntax warning: Unbound global variable in gap/theorem_5_2_1.g:55
+    could:=ForAny(possibleC3,q->ForAll([1..Length(keys)],j->Position(keys,Set(\
+keys[j],i->i^q))<>fail and cts[j]=cts[Position(keys,Set(keys[j],i->i^q))]));
+                                                                              \
+                                                        ^^^^
+class 4044 inv [ 2, 2, 4 ] Aorder 24
+class 4045 inv [ 2, 2, 4 ] Aorder 24
+class 4046 inv [ 2, 2, 4 ] Aorder 4
+class 4047 inv [ 2, 2, 4 ] Aorder 8
+class 4051 inv [ 2, 2, 4 ] Aorder 8
+class 4052 inv [ 2, 2, 4 ] Aorder 8
+class 4054 inv [ 2, 2, 4 ] Aorder 12
+class 4056 inv [ 2, 2, 4 ] Aorder 8
+class 4059 inv [ 2, 2, 4 ] Aorder 8
+class 4061 inv [ 2, 2, 4 ] Aorder 24
+class 4063 inv [ 2, 2, 4 ] Aorder 4
+class 4064 inv [ 2, 2, 4 ] Aorder 4
+class 4065 inv [ 2, 2, 4 ] Aorder 8
+class 4066 inv [ 2, 2, 4 ] Aorder 8
+class 4067 inv [ 2, 2, 4 ] Aorder 8
+class 4068 inv [ 2, 2, 4 ] Aorder 8
+class 5478 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5479 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5480 inv [ 2, 2, 2, 2, 2 ] Aorder 48
+class 5481 inv [ 2, 2, 2, 2, 2 ] Aorder 48
+class 5482 inv [ 2, 2, 2, 2, 2 ] Aorder 32
+class 5483 inv [ 2, 2, 2, 2, 2 ] Aorder 32
+class 5484 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5485 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5486 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5487 inv [ 2, 2, 2, 2, 2 ] Aorder 32
+class 5488 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5489 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5490 inv [ 2, 2, 2, 2, 2 ] Aorder 36
+class 5493 inv [ 2, 2, 2, 2, 2 ] Aorder 12
+class 5494 inv [ 2, 2, 2, 2, 2 ] Aorder 32
+class 5496 inv [ 2, 2, 2, 2, 2 ] Aorder 32
+class 147 inv [ 2, 2 ] Aorder 6
+class 187 inv [ 2, 2 ] Aorder 6
+class 246 inv [ 2, 2 ] Aorder 6
+class 262 inv [ 2, 2 ] Aorder 6
+class 319 inv [ 2, 2 ] Aorder 6
+class 338 inv [ 2, 2 ] Aorder 6
+class 859 inv [ 2, 2, 2 ] Aorder 6
+class 914 inv [ 2, 2, 2 ] Aorder 6
+class 999 inv [ 2, 2, 2 ] Aorder 6
+class 1002 inv [ 2, 2, 2 ] Aorder 6
+class 1213 inv [ 2, 2, 2 ] Aorder 6
+class 1359 inv [ 2, 2, 2 ] Aorder 6
+class 1371 inv [ 2, 2, 2 ] Aorder 6
+class 1586 inv [ 2, 2, 2 ] Aorder 6
+class 1588 inv [ 2, 2, 2 ] Aorder 6
+class 1589 inv [ 2, 2, 2 ] Aorder 24
+class 1590 inv [ 2, 2, 2 ] Aorder 6
+class 1591 inv [ 2, 2, 2 ] Aorder 24
+class 1596 inv [ 2, 2, 2 ] Aorder 6
+class 1597 inv [ 2, 2, 2 ] Aorder 6
+class 1603 inv [ 2, 2, 2 ] Aorder 24
+class 1604 inv [ 2, 2, 2 ] Aorder 6
+class 1605 inv [ 2, 2, 2 ] Aorder 6
+class 1608 inv [ 2, 2, 2 ] Aorder 6
+class 1610 inv [ 2, 2, 2 ] Aorder 6
+class 1612 inv [ 2, 2, 2 ] Aorder 6
+class 1614 inv [ 2, 2, 2 ] Aorder 6
+class 1618 inv [ 2, 2, 2 ] Aorder 6
+class 1620 inv [ 2, 2, 2 ] Aorder 6
+class 1622 inv [ 2, 2, 2 ] Aorder 24
+class 1624 inv [ 2, 2, 2 ] Aorder 24
+class 1627 inv [ 2, 2, 2 ] Aorder 24
+class 1628 inv [ 2, 2, 2 ] Aorder 6
+class 1630 inv [ 2, 2, 2 ] Aorder 6
+class 1632 inv [ 2, 2, 2 ] Aorder 6
+class 1633 inv [ 2, 2, 2 ] Aorder 24
+class 1636 inv [ 2, 2, 2 ] Aorder 6
+class 1638 inv [ 2, 2, 2 ] Aorder 6
+class 1642 inv [ 2, 2, 2 ] Aorder 6
+class 1646 inv [ 2, 2, 2 ] Aorder 6
+class 1647 inv [ 2, 2, 2 ] Aorder 6
+class 1653 inv [ 2, 2, 2 ] Aorder 6
+class 1655 inv [ 2, 2, 2 ] Aorder 6
+class 1762 inv [ 2, 2, 2 ] Aorder 6
+class 1763 inv [ 2, 2, 2 ] Aorder 6
+class 1778 inv [ 2, 2, 2 ] Aorder 6
+class 1794 inv [ 2, 2, 2 ] Aorder 24
+class 1815 inv [ 2, 2, 2 ] Aorder 6
+class 1875 inv [ 2, 2, 2 ] Aorder 6
+class 1876 inv [ 2, 2, 2 ] Aorder 6
+class 1878 inv [ 2, 2, 2 ] Aorder 6
+class 1879 inv [ 2, 2, 2 ] Aorder 6
+class 1884 inv [ 2, 2, 2 ] Aorder 6
+class 3563 inv [ 2, 2, 2, 2 ] Aorder 12
+class 3930 inv [ 2, 2, 2, 2 ] Aorder 24
+class 3932 inv [ 2, 2, 2, 2 ] Aorder 36
+class 3938 inv [ 2, 2, 2, 2 ] Aorder 48
+class 3939 inv [ 2, 2, 2, 2 ] Aorder 24
+class 3940 inv [ 2, 2, 2, 2 ] Aorder 48
+class 3943 inv [ 2, 2, 2, 2 ] Aorder 24
+class 3945 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3949 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3952 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3956 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3957 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3967 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3971 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3982 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3984 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3985 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3995 inv [ 2, 2, 2, 2 ] Aorder 6
+class 3999 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4010 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4011 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4012 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4013 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4015 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4032 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4035 inv [ 2, 2, 2, 2 ] Aorder 24
+class 4053 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4071 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4073 inv [ 2, 2, 2, 2 ] Aorder 24
+class 4083 inv [ 2, 2, 2, 2 ] Aorder 24
+class 4112 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4116 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4119 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4121 inv [ 2, 2, 2, 2 ] Aorder 24
+class 4129 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4159 inv [ 2, 2, 2, 2 ] Aorder 24
+class 4168 inv [ 2, 2, 2, 2 ] Aorder 6
+class 4169 inv [ 2, 2, 2, 2 ] Aorder 6
+PROFILE SCAN COMPLETE checks 123 skipped 351 C3 0
+odd rank2 p 3 C order 18 automizer orders [ 48 ]
+odd rank2 p 5 C order 50 automizer orders [ 40, 480 ]
+BEGIN p 3 C 4320 Q [ 32, 9 ]
+p 3 C=4320 P2=[ 32, 9 ] mixed 
+[ [ [ 2, 2 ], [ 2, 1 ] ], [ [ 2, 2 ], [ 4, 2 ] ], [ [ 2, 2 ], [ 12, 4 ] ], 
+  [ [ 2, 2, 2 ], [ 12, 4 ] ] ]
+BEGIN p 5 C 2000 Q [ 16, 4 ]
+p 5 C=2000 P2=[ 16, 4 ] mixed [ [ [ 2, 2 ], [ 4, 1 ] ] ]
+BEGIN p 5 C 600 Q [ 8, 4 ]
+p 5 C=600 P2=[ 8, 4 ] mixed [  ]
+BEGIN p 7 C 56 Q [ 8, 4 ]
+p 7 C=56 P2=[ 8, 4 ] mixed [ [ [  ], [ 6, 2 ] ], [ [ 2 ], [ 6, 2 ] ], 
+  [ [ 4 ], [ 4, 2 ] ] ]
+BEGIN p 13 C 104 Q [ 8, 4 ]
+p 13 C=104 P2=[ 8, 4 ] mixed [ [ [  ], [ 12, 2 ] ], [ [ 2 ], [ 12, 2 ] ], 
+  [ [ 4 ], [ 8, 2 ] ] ]
+BEGIN p 29 C 58 Q [ 2, 1 ]
+p 29 C=58 P2=[ 2, 1 ] mixed [  ]
+odd 15 C=30 P2=[ 2, 1 ] mixed [  ]
+ALL MIXED CHECKS 17 C3 0
+ALL RUDVALIS C3 CHECKS PASSED
+FINAL

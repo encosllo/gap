@@ -1,0 +1,9 @@
+unitary H81: N=11664 C=9 A=1296; O3=81; Sylow2=[ 16, 12 ]
+global base K27: N=69984 C=486; cover translation kernel=
+9; full cover automizer order=1296
+F1296 FULL 3.FI22 AND 6.FI22 PRESENCE CHECKS PASSED
+canonical action: two irreducible planes; nonzero weight orbits 8,8,16,16,16,1\
+6; no normal C3
+fixed absence-input matrix group matches the actual full covering automizer
+ALL F1296 FULL COVER PRESENCE AND ACTION CHECKS PASSED
+FINAL

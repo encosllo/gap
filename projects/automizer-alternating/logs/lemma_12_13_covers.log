@@ -1,0 +1,11 @@
+n=5 |Z(cover)|=2
+  2.A5: equal? false  extra=[  ]  missing=[ "C3" ]
+n=6 |Z(cover)|=6
+  3.A6: equal? false  extra=[ "A4" ]  missing=[ "C4" ]
+  2.A6: equal? false  extra=[ "D8" ]  missing=[ "C2 x C2" ]
+  6.A6: equal? false  extra=[ "D8", "A4" ]  missing=[ "C4", "C2 x C2" ]
+n=7 |Z(cover)|=6
+  3.A7: equal? false  extra=[ "A4" ]  missing=[  ]
+  2.A7: equal? false  extra=[ "D8", "(C6 x C2) : C2" ]  missing=[  ]
+  6.A7: equal? false  extra=[ "D8", "A4", "(C6 x C2) : C2" ]  missing=[  ]
+FINAL

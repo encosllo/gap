@@ -1,0 +1,17 @@
+pure-2 abelian global checks = 559
+odd centralizer [p,|C|,global checks] = [ 3, 34992, 62 ]
+odd centralizer [p,|C|,global checks] = [ 3, 9797760, 56 ]
+odd centralizer [p,|C|,global checks] = [ 5, 300, 5 ]
+odd centralizer [p,|C|,global checks] = [ 5, 1800, 10 ]
+odd centralizer [p,|C|,global checks] = [ 7, 84, 4 ]
+odd centralizer [p,|C|,global checks] = [ 3, 3240, 24 ]
+odd centralizer [p,|C|,global checks] = [ 11, 11, 1 ]
+odd centralizer [p,|C|,global checks] = [ 13, 13, 1 ]
+odd centralizer [p,|C|,global checks] = [ 13, 13, 1 ]
+cover C28 automizer = [ 12, 5 ]
+nonabelian-2 [C,P,classes,eligible,global checks] = 
+[ 3317760, 8192, 4950, 3272, 123 ]
+nonabelian-2 [C,P,classes,eligible,global checks] = [ 161280, 512, 218, 16, 2 
+ ]
+ALL SUZ DOUBLE-COVER CHECKS PASSED
+FINAL

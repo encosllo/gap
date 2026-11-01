@@ -10,6 +10,8 @@ citation metadata, scripts and logs. A project can be copied out of the reposito
 
 | Project | Paper | Previous repository |
 |---|---|---|
+| [`automizer-alternating`](projects/automizer-alternating) | L. Gong, Y. Yan, E. Cosme Llópez, *Recognition of Alternating Groups by Proper-Subgroup Automizer Spectra* | — |
+| [`automizer-sporadic`](projects/automizer-sporadic) | L. Gong, Y. Yan, E. Cosme Llópez, *Recognition of All Sporadic Simple Groups by Proper-Subgroup Automizer Spectra* | — |
 | [`derived-automorphisms`](projects/derived-automorphisms) | L. Gong, Y. Yan, E. Cosme Llópez, *Derived automorphisms of finite groups* | `encosllo/derived-automorphisms-gap` |
 | [`derived-norm`](projects/derived-norm) | L. Gong, B. Wang, E. Cosme Llópez, *The derived norm of $\mathcal H$-subgroups in finite groups* | `encosllo/derived-norm-gap` |
 | [`residual-defect`](projects/residual-defect) | L. Gong, Y. Yan, E. Cosme Llópez, *Residual Subnormal Defect Two: Affine Criteria and Extremal Fitting Height* | `encosllo/residual-defect-gap` |

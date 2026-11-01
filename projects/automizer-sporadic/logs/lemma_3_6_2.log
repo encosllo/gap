@@ -1,0 +1,13 @@
+GAP 4.16dev; CTblLib 1.3.11
+D order = 5760; central class positions = [ 1, 2 ]; class sizes = [ 1, 1 ]
+2^4:A6 normal subgroup orders = [ 1, 16, 5760 ]
+2^4.s6 normal subgroup orders = [ 1, 16, 5760, 11520 ]
+HS maximal subgroup orders divisible by 2880:
+M22 443520
+L3(4).2_1 40320
+A8.2 40320
+2^4.s6 11520
+2xa6.2^2 2880
+L3(4) maximal subgroup orders = [ 960, 960, 360, 360, 360, 168, 168, 168, 72 ]
+A8.2 maximal subgroup orders = [ 20160, 5040, 1440, 1152, 720, 384, 336 ]
+FINAL

@@ -1,0 +1,19 @@
+complete U4(3) T classes [ 376, 377 ]
+T class 376: preimage 181440, perfect core 60480, aligned centre=false
+T class 377: preimage 181440, perfect core 60480, aligned centre=true
+aligned core: N=2903040, C=36, automizer=80640
+central product [ 1, 60480, 2903040, 36, 80640 ]
+central product [ 2, 120960, 967680, 12, 80640 ]
+central product [ 3, 181440, 725760, 9, 80640 ]
+central product [ 3, 181440, 725760, 9, 80640 ]
+central product [ 3, 60480, 2903040, 36, 80640 ]
+central product [ 3, 181440, 725760, 9, 80640 ]
+central product [ 4, 241920, 2903040, 12, 241920 ]
+central product [ 6, 120960, 967680, 12, 80640 ]
+central product [ 9, 181440, 725760, 9, 80640 ]
+central product [ 12, 241920, 2903040, 12, 241920 ]
+centre-fixed outer type L3(4).2_1: true
+centre-fixed outer type L3(4).2_2: false
+centre-fixed outer type L3(4).2_3: false
+ALL CO1 U43-SOURCE CENTRAL-CORE CHECKS PASSED
+FINAL

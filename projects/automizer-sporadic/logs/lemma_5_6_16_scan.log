@@ -1,0 +1,17 @@
+max9 order 2903040 centre3 3
+perfect L order 60480 centre 3
+L centralizer 36 C3 x A4
+centralizer subgroup classes 14
+H central product [ 1, 60480, 2903040, 36, 80640 ]
+H central product [ 2, 120960, 967680, 12, 80640 ]
+H central product [ 3, 181440, 725760, 9, 80640 ]
+H central product [ 3, 181440, 725760, 9, 80640 ]
+H central product [ 3, 60480, 2903040, 36, 80640 ]
+H central product [ 3, 181440, 725760, 9, 80640 ]
+H central product [ 4, 241920, 2903040, 12, 241920 ]
+H central product [ 6, 120960, 967680, 12, 80640 ]
+H central product [ 9, 181440, 725760, 9, 80640 ]
+H central product [ 12, 241920, 2903040, 12, 241920 ]
+3L34 CENTRAL PRODUCTS SCAN FINISHED
+ALL TRIPLE-CORE SCAN CHECKS PASSED
+FINAL

@@ -1,0 +1,6 @@
+actual Co2 HS.2/HS orders [ 88704000, 44352000 ]
+HS.2 T local [N,C,A] [ 80640, 1, 80640 ]
+actual Co2 HS-source T global centralizer 1
+actual Co2 HS-source T global normalizer 241920
+ALL CO2 HS-SOURCE CO1 CHECKS PASSED
+FINAL

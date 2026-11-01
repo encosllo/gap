@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below and this software."
+title: "GAP code for \"Recognition of All Sporadic Simple Groups by Proper-Subgroup Automizer Spectra\""
+type: software
+authors:
+  - family-names: Gong
+    given-names: Lü
+    affiliation: "School of Mathematics and Statistics, Nantong University, China"
+  - family-names: Yan
+    given-names: Yan
+    affiliation: "School of Mathematics and Statistics, Nantong University, China"
+  - family-names: Cosme Llópez
+    given-names: Enric
+    affiliation: "Departament de Matemàtiques, Universitat de València, Spain"
+license: MIT
+repository-code: "https://github.com/encosllo/gap/tree/main/projects/automizer-sporadic"
+keywords:
+  - GAP
+  - finite groups
+  - sporadic simple groups
+  - automizer
+  - recognition
+  - central extensions
+preferred-citation:
+  type: article
+  title: "Recognition of All Sporadic Simple Groups by Proper-Subgroup Automizer Spectra"
+  authors:
+    - family-names: Gong
+      given-names: Lü
+    - family-names: Yan
+      given-names: Yan
+    - family-names: Cosme Llópez
+      given-names: Enric

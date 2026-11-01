@@ -1,0 +1,36 @@
+GAP 4.16.1; CTblLib 1.3.11
+PASS M11: mu=720; largest-center=1
+PASS M12: mu=7920; largest-center=1
+PASS M22: mu=20160; largest-center=1
+PASS M23: mu=443520; largest-center=1
+PASS M24: mu=10200960; largest-center=1
+PASS J1: mu=660; largest-center=1
+PASS J2: mu=6048; largest-center=1
+PASS J3: mu=8160; largest-center=1
+PASS J4: mu=501397585920; largest-center=1
+PASS HS: mu=443520; largest-center=1
+PASS McL: mu=3265920; largest-center=1
+PASS He: mu=1958400; largest-center=1
+PASS Ru: mu=35942400; largest-center=1
+PASS Suz: mu=251596800; largest-center=1
+PASS ON: mu=3753792; largest-center=1
+PASS Co1: mu=42305421312000; largest-center=1
+PASS Co2: mu=18393661440; largest-center=1
+PASS Co3: mu=1796256000; largest-center=1
+PASS HN: mu=239500800; largest-center=1
+PASS Ly: mu=5859000000; largest-center=1
+PASS Th: mu=634023936; largest-center=1
+PASS Fi22: mu=9196830720; largest-center=2
+PASS Fi23: mu=64561751654400; largest-center=2
+PASS F3+: mu=4089470473293004800; largest-center=1
+PASS B: mu=153064959367549707878400; largest-center=2
+PASS M: mu=4154781481226426191177580544000000; largest-center=2
+PASS inclusion U4(2) < U4(3)
+PASS inclusion S8 < S6(2)
+PASS inclusion S6(2) < O8+(2)
+PASS inclusion U3(3) < J2
+PASS inclusion U3(5).2 < HS
+PASS inclusion A7 < U3(5)
+PASS U3(5) parabolic: order 1000, center trivial
+PASS all 18 simple-group orders in Lemma 11.1
+FINAL

@@ -1,0 +1,7 @@
+source overgrouporders=[ 10200960, 887040, 120960 ]
+Wdimension=10 containscentre=false Korder=40320
+Wcharacters=[ [ 1, 22 ], [ 2, 1 ] ] zerocharacterindexes=[ 1 ]
+Ktableidentified=true
+Wactionorder=40320
+ALL COVER PRESENCE CHECKS PASSED
+FINAL

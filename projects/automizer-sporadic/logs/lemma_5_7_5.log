@@ -1,0 +1,6 @@
+p=5 centralizers=[ 600 ] v3 bound N(nontrivial central Sylow p)=2
+p=7 centralizers=[ 42 ] v3 bound N(nontrivial central Sylow p)=2
+p=11 centralizers=[ 22 ] v3 bound N(nontrivial central Sylow p)=0
+p=13 centralizers=[ 13 ] v3 bound N(nontrivial central Sylow p)=1
+ALL F1296 ODD CENTRAL NORMALIZER BOUNDS PASSED
+FINAL

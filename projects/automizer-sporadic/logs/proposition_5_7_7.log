@@ -1,0 +1,406 @@
+full-A Q8-containing abelian parents 154 types 
+[ [ 8, 4 ], [ 16, 12 ], [ 48, 29 ], [ 144, 187 ], [ 432, 734 ], [ 432, 742 ], 
+  [ 1152, 157478 ], "(((C3 x C3 x C3 x C3) : Q8) : C3) : C2", "O(5,3) : C2", 
+  "PSL(3,3)" ]
+parent finished 65 Psize 9 eligible2extensions 1 order1296 0
+parent finished 68 Psize 9 eligible2extensions 1 order1296 0
+parent finished 70 Psize 9 eligible2extensions 1 order1296 0
+parent finished 71 Psize 9 eligible2extensions 1 order1296 0
+parent finished 81 Psize 9 eligible2extensions 1 order1296 0
+parent finished 86 Psize 9 eligible2extensions 1 order1296 0
+parent finished 87 Psize 9 eligible2extensions 1 order1296 0
+parent finished 91 Psize 9 eligible2extensions 1 order1296 0
+parent finished 108 Psize 9 eligible2extensions 1 order1296 0
+parent finished 112 Psize 9 eligible2extensions 1 order1296 0
+parent finished 114 Psize 9 eligible2extensions 1 order1296 0
+parent finished 115 Psize 9 eligible2extensions 1 order1296 0
+parent finished 117 Psize 9 eligible2extensions 1 order1296 0
+parent finished 121 Psize 9 eligible2extensions 1 order1296 0
+parent finished 124 Psize 9 eligible2extensions 1 order1296 0
+parent finished 128 Psize 9 eligible2extensions 1 order1296 0
+parent finished 131 Psize 9 eligible2extensions 1 order1296 0
+parent finished 145 Psize 9 eligible2extensions 1 order1296 0
+parent finished 149 Psize 9 eligible2extensions 1 order1296 0
+parent finished 151 Psize 9 eligible2extensions 1 order1296 0
+parent finished 154 Psize 9 eligible2extensions 1 order1296 0
+parent finished 161 Psize 9 eligible2extensions 1 order1296 0
+parent finished 244 Psize 9 eligible2extensions 1 order1296 0
+parent finished 261 Psize 9 eligible2extensions 1 order1296 0
+parent finished 266 Psize 9 eligible2extensions 1 order1296 0
+parent finished 285 Psize 9 eligible2extensions 1 order1296 0
+parent finished 303 Psize 9 eligible2extensions 1 order1296 0
+parent finished 327 Psize 9 eligible2extensions 1 order1296 0
+parent finished 345 Psize 9 eligible2extensions 8 order1296 0
+parent finished 358 Psize 9 eligible2extensions 8 order1296 0
+parent finished 361 Psize 9 eligible2extensions 8 order1296 0
+parent finished 371 Psize 9 eligible2extensions 1 order1296 0
+parent finished 396 Psize 9 eligible2extensions 8 order1296 0
+parent finished 400 Psize 9 eligible2extensions 8 order1296 0
+parent finished 411 Psize 9 eligible2extensions 8 order1296 0
+parent finished 480 Psize 9 eligible2extensions 1 order1296 0
+parent finished 485 Psize 9 eligible2extensions 1 order1296 0
+parent finished 504 Psize 9 eligible2extensions 1 order1296 0
+parent finished 519 Psize 9 eligible2extensions 1 order1296 0
+parent finished 542 Psize 9 eligible2extensions 1 order1296 0
+parent finished 559 Psize 9 eligible2extensions 1 order1296 0
+parent finished 572 Psize 9 eligible2extensions 1 order1296 0
+parent finished 575 Psize 9 eligible2extensions 1 order1296 0
+parent finished 580 Psize 9 eligible2extensions 1 order1296 0
+parent finished 596 Psize 9 eligible2extensions 8 order1296 0
+parent finished 597 Psize 9 eligible2extensions 8 order1296 0
+parent finished 643 Psize 9 eligible2extensions 8 order1296 0
+parent finished 657 Psize 27 eligible2extensions 2 order1296 0
+parent finished 658 Psize 27 eligible2extensions 2 order1296 0
+parent finished 659 Psize 27 eligible2extensions 2 order1296 0
+parent finished 660 Psize 27 eligible2extensions 2 order1296 0
+parent finished 663 Psize 27 eligible2extensions 2 order1296 0
+parent finished 664 Psize 27 eligible2extensions 2 order1296 0
+parent finished 665 Psize 27 eligible2extensions 2 order1296 0
+parent finished 666 Psize 27 eligible2extensions 2 order1296 0
+parent finished 667 Psize 27 eligible2extensions 2 order1296 0
+parent finished 668 Psize 27 eligible2extensions 2 order1296 0
+parent finished 669 Psize 27 eligible2extensions 2 order1296 0
+parent finished 670 Psize 27 eligible2extensions 2 order1296 0
+parent finished 678 Psize 27 eligible2extensions 2 order1296 0
+parent finished 680 Psize 27 eligible2extensions 2 order1296 0
+parent finished 681 Psize 27 eligible2extensions 2 order1296 0
+parent finished 682 Psize 27 eligible2extensions 2 order1296 0
+parent finished 697 Psize 27 eligible2extensions 2 order1296 0
+parent finished 699 Psize 27 eligible2extensions 2 order1296 0
+parent finished 705 Psize 27 eligible2extensions 2 order1296 0
+parent finished 750 Psize 27 eligible2extensions 2 order1296 0
+parent finished 755 Psize 27 eligible2extensions 2 order1296 0
+parent finished 757 Psize 27 eligible2extensions 2 order1296 0
+parent finished 759 Psize 27 eligible2extensions 2 order1296 0
+parent finished 762 Psize 27 eligible2extensions 2 order1296 0
+parent finished 765 Psize 27 eligible2extensions 2 order1296 0
+parent finished 768 Psize 27 eligible2extensions 2 order1296 0
+parent finished 769 Psize 27 eligible2extensions 2 order1296 0
+parent finished 770 Psize 27 eligible2extensions 2 order1296 0
+parent finished 778 Psize 27 eligible2extensions 2 order1296 0
+parent finished 786 Psize 27 eligible2extensions 2 order1296 0
+parent finished 788 Psize 27 eligible2extensions 2 order1296 0
+parent finished 805 Psize 27 eligible2extensions 2 order1296 0
+parent finished 814 Psize 27 eligible2extensions 2 order1296 0
+parent finished 863 Psize 27 eligible2extensions 2 order1296 0
+parent finished 868 Psize 27 eligible2extensions 2 order1296 0
+parent finished 872 Psize 27 eligible2extensions 2 order1296 0
+parent finished 887 Psize 27 eligible2extensions 2 order1296 0
+parent finished 898 Psize 27 eligible2extensions 3 order1296 0
+parent finished 899 Psize 27 eligible2extensions 3 order1296 0
+parent finished 931 Psize 27 eligible2extensions 2 order1296 0
+parent finished 937 Psize 27 eligible2extensions 2 order1296 0
+parent finished 942 Psize 27 eligible2extensions 2 order1296 0
+parent finished 966 Psize 27 eligible2extensions 3 order1296 0
+parent finished 970 Psize 27 eligible2extensions 2 order1296 0
+parent finished 974 Psize 27 eligible2extensions 2 order1296 0
+parent finished 980 Psize 27 eligible2extensions 2 order1296 0
+parent finished 993 Psize 27 eligible2extensions 2 order1296 0
+parent finished 998 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1000 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1003 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1007 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1011 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1031 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1055 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1057 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1070 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1073 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1098 Psize 27 eligible2extensions 2 order1296 0
+parent finished 1128 Psize 27 eligible2extensions 3 order1296 0
+parent finished 1247 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1255 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1256 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1258 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1261 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1267 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1269 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1273 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1275 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1287 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1295 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1313 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1314 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1320 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1350 Psize 27 eligible2extensions 1 order1296 0
+parent finished 1369 Psize 27 eligible2extensions 1 order1296 0
+order1296 abelian-parent extension [ 1372, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1372, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1372, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1372 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1380, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1380, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1380, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1380 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1391, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1391, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1391, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1391 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1393, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1393, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1393, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1393 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1394, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1394, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1394, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1394, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1394, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1394 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1395, 81, 4, [ 4, 2 ], 324, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+order1296 abelian-parent extension [ 1395, 81, 8, [ 8, 5 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+parent finished 1395 Psize 81 eligible2extensions 106 order1296 2
+order1296 abelian-parent extension [ 1412, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1412, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1412, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1412, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1412, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1412 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1413, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1413, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1413, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1413 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1416, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1416, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1416, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1416, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1416, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1416 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1419, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1419, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1419, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1419, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1419, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1419 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1420, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1420, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1420, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1420, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1420, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1420 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1425, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1425, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1425, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1425 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1426, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1426, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1426, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1426, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1426, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1426 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1428, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1428, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1428, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1428, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1428, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1428 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1431, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1431, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1431, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1431, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1431, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1431 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1432, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1432, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1432, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1432, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1432, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1432 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1439, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1439, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1439, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1439, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1439, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1439 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1440, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1440, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1440, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1440, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1440, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1440 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1441, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1441, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1441, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1441, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1441, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1441 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1447, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1447, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1447, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1447 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1451, 81, 4, [ 4, 2 ], 324, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+order1296 abelian-parent extension [ 1451, 81, 8, [ 8, 5 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+parent finished 1451 Psize 81 eligible2extensions 106 order1296 2
+order1296 abelian-parent extension [ 1457, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1457, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1457, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1457, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1457, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1457 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1474, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1474, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1474, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1474 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1477, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1477, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1477, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1477, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1477, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1477 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1480, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1480, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1480, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1480 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1494, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1494, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1494, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1494, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1494, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1494 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1498, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1498, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1498, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1498 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1502, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1502, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1502, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1502 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1517, 81, 8, [ 8, 3 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1517, 81, 8, [ 8, 1 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 8 ] ]
+order1296 abelian-parent extension [ 1517, 81, 16, [ 16, 8 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 8 ] ]
+parent finished 1517 Psize 81 eligible2extensions 5 order1296 3
+order1296 abelian-parent extension [ 1522, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1522, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1522, 81, 8, [ 8, 2 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1522, 81, 8, [ 8, 4 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 12 ] ]
+order1296 abelian-parent extension [ 1522, 81, 16, [ 16, 12 ], 1296, 1, 1296, 
+  1, 81, true, [ 16, 12 ] ]
+parent finished 1522 Psize 81 eligible2extensions 9 order1296 5
+order1296 abelian-parent extension [ 1529, 81, 4, [ 4, 2 ], 324, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+order1296 abelian-parent extension [ 1529, 81, 8, [ 8, 5 ], 648, 1, 1296, 1, 
+  81, true, [ 16, 14 ] ]
+parent finished 1529 Psize 81 eligible2extensions 106 order1296 2
+parent finished 1536 Psize 243 eligible2extensions 71 order1296 0
+ALL ABELIAN P3 MIXED COMPLETE parentcount 154 extensions 846 order1296 
+122 target false
+ABELIAN-P ABSENCE ASSERTED
+FINAL

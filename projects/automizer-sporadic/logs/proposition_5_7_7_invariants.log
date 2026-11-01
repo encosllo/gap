@@ -1,0 +1,8 @@
+all 122 base abelian-parent order1296 hits separated by O3/Sylow2/normalC3 inv\
+ariants
+coarse target-shape hit count 80 signatures 
+[ [ [ 81, true, [ 16, 12 ], 2 ], 80 ] ]
+signature table [ [ [ 81, true, [ 16, 8 ] ], 36 ], 
+  [ [ 81, true, [ 16, 12 ], 2 ], 80 ], [ [ 81, true, [ 16, 14 ] ], 6 ] ]
+BASE ABELIAN 1296 INVARIANT AUDIT PASSED
+FINAL
